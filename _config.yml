@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://web.zhaohao.org
+url: http://zhaohao.org
 author: zhaohao
 pygments: true
 paginate: 10
