@@ -33,6 +33,7 @@ body{
 	margin-right:auto;
 	background-image: url("/media/template/overlay.png");
 	background-repeat: repeat;
+	background-attachment:fixed;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
 	color:#000000;
 	background-color:#ffffff;
