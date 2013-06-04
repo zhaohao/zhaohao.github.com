@@ -28,7 +28,7 @@ Goodbye Cruel World!
 <p>New posts</p>
 <ul>
 
-<li>31 May 2013 <a href="/2013/05/31/hello-world.html">Hello world</a></li>
+<li>31 May 2013 <a href="/hello-world.html">Hello world</a></li>
 
 </ul>
 
