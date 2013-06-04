@@ -31,10 +31,8 @@ body{
 	font-size:14px;word-spacing:1px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url("/media/template/overlay.png") repeat;
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	background-position: 50% 100%;
+	background-image: url("/media/template/overlay.png");
+	background-repeat: repeat;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
 	color:#000000;
 	background-color:#ffffff;
@@ -108,7 +106,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 footer{
 display:block;
 border-top: 1px dashed #CCC;
-height:120px;
+height:200px;
 width:600px;
 background:url("/zoo.png") left no-repeat;
 background-size:80%;
