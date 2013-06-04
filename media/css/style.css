@@ -31,7 +31,7 @@ body{
 	font-size:14px;word-spacing:1px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url("/zoo.png");
+	background-image: url("/media/template/overlay.png");
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-position: 50% 100%;
@@ -55,7 +55,7 @@ blockquote p{margin:0;padding:.5em 0;}
   margin:2em auto;
   display:block;
   padding:0 2em;
-  background: url("/media/template/overlay.png") repeat;
+  background: url("") repeat;
   }
 .content{font-size:16px;line-height:24px;}
 .content h1{padding:.5em 0;}
@@ -108,6 +108,8 @@ embed,object,iframe{display:block;margin:4px auto;}
 footer{
 display:block;
 border-top: 1px dashed #CCC;
+background:url("/zoo.png") left no-repeat;
+background-size:80%;
 }
 
 footer small {
