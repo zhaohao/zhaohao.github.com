@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Page Build Failed 
-categories:
-- Weblog
 tags:
 - me
 ---
