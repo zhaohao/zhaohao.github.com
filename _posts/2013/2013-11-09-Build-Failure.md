@@ -1,3 +1,1 @@
----
----
-Goodbye Cruel World!  
+Goodbye Cruel World!
