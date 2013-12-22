@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 冬至【The Winter Solstice】
 categories:
