@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Github Desktop App
 categories:
@@ -19,4 +19,4 @@ Goodbye Cruel World!
 [GitHub for Eclipse](http://eclipse.github.com/)    
 [GitHub mobile apps](http://mobile.github.com/)    
 **********
-![](http://zhao.im/media/pics/GithubAPP.png)   
+![](http://hao.zhao.im/media/pics/GithubAPP.png)   
