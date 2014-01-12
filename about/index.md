@@ -3,17 +3,37 @@ title: About me
 layout: page
 comments: yes
 ---
-<p><center><object type="application/x-shockwave-flash" data="http://hao.zhao.im/media/template/player.swf" id="player1" width="479" height="24">
-   <param name="movie" value="http://hao.zhao.im/media/template/player.swf">
-   <param name="FlashVars" value="playerID=1&amp;soundFile=http://hao.zhao.im/media/template/LAGWAFSIS.mp3&amp;titles=LadiesAndGentlemenWeAreFloatingInSpace&amp;artists=&amp;autostart=yes&amp;initialvolume=45&amp;loader=0x4a7ff8&amp;border=0xecf2fa&amp;bg=0xecf2fa&amp;tracker=0xd5e3f4&amp;leftbg=0xd5e3f4&amp;rightbg=0xd5e3f4&amp;rightbghover=0x4a7ff9&amp;lefticon=0x4a7ff8&amp;righticon=0x4a7ff8&amp;voltrack=0xffffff&amp;volslider=0x4a7ff8">
-   <param name="quality" value="high">
-   <param name="menu" value="false">
-   <param name="wmode" value="transparent">  
-  </object>
-  </center></p>
-<center>你嘴角微翘，我看见阳光满地……</center>
-<center>你回眸一望，我看见晴空万里……</center>  
+<audio controls="controls" autoplay="autoplay" loop="loop">
+<source src="http://hao.zhao.im/media/Audio/MySoul.mp3" type="audio/mp3">
+HTML5 audio not supported!
+</audio>
+<p>你嘴角微翘，我看见阳光满地……</p>
+<p>你回眸一望，我看见晴空万里……</p>
 </ br>
-<p>Email:hao(at)zhao.im</p>
-<p>Email:9834001@gmail.com</p>
-<p>Github.com/zhaohao<p>
+<p>Email:hao＠zhao.im</p>
+***** 
+I stand alone in the darkness    
+The winter of my life came so fast    
+Memories go back to childhood    
+to days I still recall    
+Oh how happy I was then     
+    
+There was no sorrow there was no pain    
+Walking through the green fields    
+Sunshine in my eyes    
+    
+I'm still there everywhere    
+I'm the dust in the wind    
+I'm the star in the northern sky     
+I never stayed anywhere    
+I'm the wind in the trees    
+Would you wait for me forever?    
+    
+I'm still there everywhere    
+I'm the dust in the wind    
+I'm the star in the northern sky    
+I never stayed anywhere    
+I'm the wind in the trees    
+Would you wait for me forever?    
+Would you wait for me forever?    
+Will you wait for me forever?    
