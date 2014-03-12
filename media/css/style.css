@@ -5,14 +5,38 @@
 * @link http://lhzhang.com/
 * @update 2011-12-20
 * @update 2013-06-02 zhaohao color bgpics ..
+* @update 2014-03-12 webfonts zhaohao
 * |/ | (~ (~
 * |\.|._)._)
 * --------------------------------- */
 
-@import url(http://fonts.googleapis.com/css?family=Galdeano);
-@import url(http://fonts.googleapis.com/css?family=Electrolize);
-@import url(http://fonts.googleapis.com/css?family=Cuprum);
-@import url(http://fonts.googleapis.com/css?family=Codystar);
+@font-face {
+  font-family: 'Galdeano';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Galdeano Regular'), local('Galdeano-Regular'), url("/media/css/Galdeano.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Electrolize';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Electrolize'), local('Electrolize-Regular'), url("/media/css/Electrolize.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cuprum'), local('Cuprum-Regular'), url("/media/css/Cuprum.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Codystar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Codystar'), url("/media/css/Codystar.woff") format('woff');
+}
 
 
 ::-webkit-scrollbar {
