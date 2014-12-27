@@ -9,7 +9,7 @@ tags:
 Android 5.0 (Lollipop) is almost here and users will begin receiving device updates in November.     
 To help you prepare, the Android 5.0 SDK is now available with final APIs.     
 
-![Android L](/content/images/20141023-android-lollipop.png)   
+![Android L](/media/pics/20141023-android-lollipop.png)   
 
 ******    
 Android最初放出第一个Preview版本的时候，就立即下载刷机了。可是毕竟不是最终版，加上“墙”的问题，就稍微看了下又刷回了原来的系统。    
