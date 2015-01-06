@@ -67,7 +67,7 @@ body{
 a{color:#dd0000;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
 hr{border-bottom: 1px solid #cccccc;}
-p{padding:.5em 0;}
+p{padding:.5em 0; line-height:34px;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:inside;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
