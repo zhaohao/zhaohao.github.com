@@ -3,4 +3,4 @@ permalink: /:year/:month/:title/
 url: http://hao.zhao.im
 author: zhaohao
 pygments: true
-paginate: 30
+paginate: 45
