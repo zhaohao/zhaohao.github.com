@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [8900]落花~
+title: 8900落花~
 date: 2009-04-15 22:14
 author: zhaohao
 comments: true

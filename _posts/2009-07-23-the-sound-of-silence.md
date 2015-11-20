@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [8999]The Sound of Silence
+title: 8999-The Sound of Silence
 date: 2009-07-23 00:22
 author: zhaohao
 comments: true
