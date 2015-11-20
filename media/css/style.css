@@ -55,7 +55,7 @@ body{
 	font-size:14px;word-spacing:1px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url("https://howardzhao.com/wp-content/uploads/zhaohao/BGImg/rain.gif");
+	background-image: url("/media/template/rain.gif");
 	background-size: 100%;
 	background-repeat: repeat;
 	background-attachment:fixed;
@@ -144,7 +144,7 @@ display:block;
 border-top: 1px dashed #CCC;
 height:200px;
 width:600px;
-background:url("/zoo.png") left no-repeat;
+background:url("/media/template/zoo.png") left no-repeat;
 background-size:80%;
 }
 
@@ -208,7 +208,7 @@ text-decoration: none;
 
 .paginator .current-page {
 color: white;
-background: #D64A38;
+background: #3C705E;
 }
 
 .paginator a:hover{
