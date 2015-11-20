@@ -55,8 +55,8 @@ body{
 	font-size:14px;word-spacing:1px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url("/media/template/rain.gif");
-	background-size: 100%;
+	background-image: url("/media/template/bg2.jpg");
+	/*background-size: 100%;*/
 	background-repeat: repeat;
 	background-attachment:fixed;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
