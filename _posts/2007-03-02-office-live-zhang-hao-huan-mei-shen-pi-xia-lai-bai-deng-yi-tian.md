@@ -4,7 +4,7 @@ title: Office Live帐号还没审批下来，白等一天
 date: 2007-03-02 16:08
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div id="msgcns!A2B21BA57C861B3E!218" class="bvMsg">
 <div>You can send e-mail and work on your Web site immediately,</div>

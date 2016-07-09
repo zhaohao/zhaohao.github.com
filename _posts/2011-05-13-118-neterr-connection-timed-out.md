@@ -2,9 +2,9 @@
 layout: post
 title: 错误 118 (net::ERR_CONNECTION_TIMED_OUT)：操作超时。
 date: 2011-05-13 12:02
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>

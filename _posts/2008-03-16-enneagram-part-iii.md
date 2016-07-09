@@ -2,9 +2,9 @@
 layout: post
 title: 九型人格分析之我（三）
 date: 2008-03-16 19:34
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 4号性格者的主要特征包括：
 

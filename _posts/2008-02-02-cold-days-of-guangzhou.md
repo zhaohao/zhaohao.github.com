@@ -2,9 +2,9 @@
 layout: post
 title: 广州难得一遇的连续冷天
 date: 2008-02-02 12:57
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 冷了好久了，外面在下着小雨。
 

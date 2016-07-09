@@ -2,9 +2,9 @@
 layout: post
 title: 恍然若隔世
 date: 2011-03-15 21:22
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 DIARYONE 恍然若隔世
 

@@ -4,7 +4,7 @@ title: would you wait for me forever
 date: 2010-01-13 15:48
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 i stand alone in the darkness the winter of my life come so fast
 

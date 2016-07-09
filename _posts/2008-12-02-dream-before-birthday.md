@@ -2,9 +2,9 @@
 layout: post
 title: 莫名其妙这是怎么着了……
 date: 2008-12-02 23:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 昨天晚上做梦，梦到回到家了，不知怎么的就又飘到另外一个环境，似乎是天寒地冻，要过一条马路。
 

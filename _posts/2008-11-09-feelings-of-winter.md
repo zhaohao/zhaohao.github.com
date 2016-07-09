@@ -2,9 +2,9 @@
 layout: post
 title: 冬日的感觉
 date: 2008-11-09 23:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 今天的温度真的很舒服，凉凉的空气加上阵阵小风正适合躺在被窝里睡觉，于是早上也就自然的懒到十点多才爬起来了。
 

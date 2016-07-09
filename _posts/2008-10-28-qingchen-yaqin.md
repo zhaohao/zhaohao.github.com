@@ -2,9 +2,9 @@
 layout: post
 title: 清尘雅琴&街头乞讨
 date: 2008-10-28 22:14
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 清尘雅琴：静海莲心/一声佛号一声心
 

@@ -4,7 +4,7 @@ title: About stardust
 date: 2008-07-07 22:30
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 关于stardust,回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。
 

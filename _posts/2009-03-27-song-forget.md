@@ -4,7 +4,7 @@ title: 忘记-今天又翻出来了的歌
 date: 2009-03-27 19:22
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 有太多往事就别喝下太少酒精，太珍惜生命就别随便掏心，舍不得看破就别张开眼睛，想开心就要舍得伤心。
 

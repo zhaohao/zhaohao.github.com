@@ -2,9 +2,9 @@
 layout: post
 title: 匆匆那年
 date: 2014-11-22 16:33
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 匆匆那年我们 究竟说了几遍 再见之后再拖延
 可惜谁有没有 爱过不是一场 七情上面的雄辩

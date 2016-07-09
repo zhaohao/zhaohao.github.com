@@ -4,7 +4,7 @@ title: 上传了几首歌到skydrive
 date: 2007-12-08 17:32
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 第一首：哼唱版本的美丽心情；
 

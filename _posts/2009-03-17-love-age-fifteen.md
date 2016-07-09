@@ -2,9 +2,9 @@
 layout: post
 title: A-你的爱情年龄15岁
 date: 2009-03-17 01:50
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我猜你自己不会承认，不过，你确实还处在爱情的青少年期，不论你现在已经几岁了。
 

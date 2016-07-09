@@ -2,9 +2,9 @@
 layout: post
 title: 二零零七年七月
 date: 2007-07-05 00:05
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 二零零七年七月
 2007年07月05日最后

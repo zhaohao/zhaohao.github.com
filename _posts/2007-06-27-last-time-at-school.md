@@ -2,9 +2,9 @@
 layout: post
 title: 最后的学校时光
 date: 2007-06-27 19:47
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 套用一本曾经引用过的书的自序-曲终人散，无人喝彩
 2006年的某一天，看到一群群，一对对的人们在忙着他们在中大最后一次盛宴的时候，似乎这种情景离自己还很遥远，然而转瞬之间，已经悄无声息的降临到了自己的面前。

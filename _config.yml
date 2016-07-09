@@ -1,6 +1,8 @@
-markdown: rdiscount
-permalink: /:year/:month/:title/
+# Build settings
+permalink: /:title.html
 url: http://hao.zhao.im
 author: zhaohao
-pygments: true
-paginate: 45
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: pygments
+paginate: 50

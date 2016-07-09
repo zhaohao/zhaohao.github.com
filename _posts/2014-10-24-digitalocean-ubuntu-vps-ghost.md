@@ -2,9 +2,9 @@
 layout: post
 title: 在DigitalOcean的Ubuntu VPS上安装Ghost
 date: 2014-10-24 16:14
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，记得最初还是以Ghost.io作为官方主域名的。
 很快过了免费试用期，在官方站点的使用也随之结束。
@@ -23,15 +23,20 @@ Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，
 
 下述步骤在自用DigitalOcean VPS上验证通过。
 VPS配置：
+
 <pre>512MB RAM 20GB SSD Disk 新加坡1号机房 Ubuntu14.04 x32系统
 </pre>
+
 <strong>1.安装Node</strong>
 通过SSH登录你的服务器，运行下列命令以更新Ubuntu系统：
+
 <pre>sudo apt-get update
 sudo apt-get upgrade
 sudo aptitude install build-essential zip    
 </pre>
+
 运行下列命令以访问<a href="http://nodejs.org/">Nodejs.org</a> 下载最新版本的Node.js包：
+
 <pre>wget http://nodejs.org/dist/latest/node-v0.10.32.tar.gz
 tar -zxvf node-v0.10.32.tar.gz
 cd node-v0.10.32
@@ -39,17 +44,20 @@ cd node-v0.10.32
 make
 sudo make install    
 </pre>
+
 上述安装Node.js的步骤将会耗费一段时间，请耐心等待。
 
 <strong>2.安装Ghost</strong>
 
 通过下列命令下载并安装Ghost（假定安装在目录 <code>/var/www</code> )：
+
 <pre>sudo mkdir -p /var/www
 cd /var/www
 sudo wget https://ghost.org/zip/ghost-latest.zip
 sudo unzip ghost-latest.zip
 sudo npm install    
 </pre>
+
 此时已经可以通过在 <code>/var/www</code> 目录下运行 <code>npm start</code> 启动Ghost。然后可以访问<a href="http://128.199.174.200:2368/">http://128.199.174.200:2368</a> 查看ghost是否运行正常。
 
 <strong>备注</strong>：此步骤中的npm install在ubuntu12.04 32位系统平台下报错，安装不成功，转换为Ubuntu14.04 32位系统，正确安装。
@@ -61,9 +69,12 @@ sudo npm install
 <strong>4.将Ghost作为Service运行</strong>
 
 新建一个新的服务配置文件 ghost.conf
+
 <pre>sudo nano /etc/init/ghost.conf
 </pre>
+
 配置文件加入如下内容：
+
 <pre>#/etc/init/ghost.conf
 description "Ghost Blog"
 author "Your Name"
@@ -82,26 +93,33 @@ export NODE_ENV=production
 exec /usr/local/bin/npm start /var/www 2&gt;&amp;1 &gt;&gt; /var/log/ghost.log
 end script    
 </pre>
+
 之后就可以通过下列命令控制Ghost service：
+
 <pre>sudo service ghost start
 sudo service ghost stop
 sudo service ghost restart
 sudo service ghost status
 </pre>
+
 现在无论是在你重启了VPS，还是Ghost运行崩溃的情况下，<code>init</code> 都能够自动启动一个新的Ghost实例，从而保证Ghost一直运行。
 
 <strong>6.设置服务器时区</strong>
 
 由于Ghost博客是根据服务器时区来显示文章发布时间，而DigitalOcean的VPS默认了美国东部时区，即使是新加坡的机房也是如此，因此导致Ghost博客显示时间错乱。Ghost管理界面目前没有可以更改时区的选项，因此在服务器端修改Ubuntu默认时区，使之同实际时区一致。使用下列命令更改Ubuntu默认时区:
+
 <pre>sudo dpkg-reconfigure tzdata    
 </pre>
+
 选择 <code>Asia/Singapore</code> 或者其它 UTC+8:00 的时区即可。
 
 <strong>7.完成安装</strong>
 
 可以通过下列命令启动Ghost service：
+
 <pre>sudo service ghost start    
 </pre>
+
 <strong>8.博客备份及导入</strong>
 
 进入<a href="http://zhao.im/ghost/debug">http://zhao.im/ghost/debug</a> 后台页面，对Ghost博客进行导入、导出备份操作。

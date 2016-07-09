@@ -2,9 +2,9 @@
 layout: post
 title: 最近一段时间
 date: 2008-10-27 21:10
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 上周到现在，一直感觉到忙忙碌碌的，心情依旧的不怎么样。
 

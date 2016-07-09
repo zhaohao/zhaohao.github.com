@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十六周
 date: 2012-08-20 14:28
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 进入了孕16周，16周的胎儿约12厘米长，体重增加到150克，他看上去还是非常小，大小正好可以放在你的手掌里。
 

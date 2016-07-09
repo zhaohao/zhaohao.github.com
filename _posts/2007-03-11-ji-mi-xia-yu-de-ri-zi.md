@@ -4,9 +4,9 @@ title: 几米－下雨的日子
 date: 2007-03-11 15:13
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
-<a href="/wp-content/uploads/2007/03/xiayu2.jpg"><img style="float: left; cursor: pointer;" src="/wp-content/uploads/2007/03/xiayu2.jpg" alt="" border="0" /></a><span style="font-weight: bold; color: #ff6600;">下雨的日子</span>
+<a href="/Resource/xiayu2.jpg"><img style="float: left; cursor: pointer;" src="/Resource/xiayu2.jpg" alt="" border="0" /></a><span style="font-weight: bold; color: #ff6600;">下雨的日子</span>
 
 雨就这么一直下着，我就这么一直望着
 

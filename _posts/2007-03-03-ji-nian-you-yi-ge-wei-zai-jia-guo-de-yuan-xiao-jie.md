@@ -4,7 +4,7 @@ title: 纪念又一个未在家过的元宵节
 date: 2007-03-03 17:00
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div id="msgcns!A2B21BA57C861B3E!224" class="bvMsg">
 <div>又过了一年了，好快。又一个学校里的元宵节。</div>

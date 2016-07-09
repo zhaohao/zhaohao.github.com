@@ -2,9 +2,9 @@
 layout: post
 title: 你不是真正的快乐
 date: 2008-12-01 23:33
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 人群中哭着，你只想变成透明的颜色。你再也不会梦或痛或心动了，你已经决定了，你已经决定了
 

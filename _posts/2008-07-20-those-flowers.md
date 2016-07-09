@@ -2,9 +2,9 @@
 layout: post
 title: 那些花儿-范玮琪
 date: 2008-07-20 22:31
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 那片笑声让我想起我的那些花儿，在我生命每个角落静静为我开着。我曾以为我会永远守在他身旁，今天我们已经离去在人海茫茫。
 

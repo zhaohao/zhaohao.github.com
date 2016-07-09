@@ -2,9 +2,9 @@
 layout: post
 title: 京东购物两件TP-LINK无线路由器和SAMSUNG内存
 date: 2011-05-15 10:26
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 订单编号：54995429
 订单状态：等待确认收货

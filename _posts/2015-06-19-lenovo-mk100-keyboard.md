@@ -2,9 +2,9 @@
 layout: post
 title: 联想入门机械键盘MK100
 date: 2015-06-19 22:45
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 199入手第一个机械键盘，国产青轴，无边框设计，据介绍防水。因为没用过其他机械键盘，对比一般薄膜键盘，手感上强太多太多，噼里啪啦很有感觉，真如别人所讲一入机械再难回头。
 
@@ -14,6 +14,6 @@ categories: [Weblog]
 
 一些人评价外观丑，字符丑，可自己就是因为感觉外观简单漂亮，字符个性美观才入手的……
 
-<a href="/wp-content/uploads/2015/06/IMG_20150617_184107.jpg"><img src="/wp-content/uploads/2015/06/IMG_20150617_184107-1024x758.jpg" alt="IMG_20150617_184107" width="1024" height="758" class="alignnone size-large wp-image-275" /></a>
+<a href="/Resource/IMG_20150617_184107.jpg"><img src="/Resource/IMG_20150617_184107.jpg" alt="IMG_20150617_184107" width="1024" height="758" class="alignnone size-large wp-image-275" /></a>
 
-<a href="/wp-content/uploads/2015/06/IMG_20150617_211100.jpg"><img src="/wp-content/uploads/2015/06/IMG_20150617_211100-1024x768.jpg" alt="IMG_20150617_211100" width="1024" height="768" class="alignnone size-large wp-image-274" /></a>
+<a href="/Resource/IMG_20150617_211100.jpg"><img src="/Resource/IMG_20150617_211100.jpg" alt="IMG_20150617_211100" width="1024" height="768" class="alignnone size-large wp-image-274" /></a>

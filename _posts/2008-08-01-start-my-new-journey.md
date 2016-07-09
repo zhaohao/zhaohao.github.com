@@ -2,9 +2,9 @@
 layout: post
 title: Start My New Journey
 date: 2008-08-01 00:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Start My New Journey ! Now Begin!
 

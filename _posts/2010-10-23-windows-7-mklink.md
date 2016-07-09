@@ -4,7 +4,7 @@ title: Windows 7 Mklink
 date: 2010-10-23 20:50
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 C:UsersAcui&gt;mklink<br />
 创建符号链接。<br />

@@ -4,7 +4,7 @@ title: 思虑了好久,最后确定
 date: 2008-01-27 23:02
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我绝对不能在HX留太久的时间,在那里永远没有自己的梦想!不离开只会后悔一辈子!
 

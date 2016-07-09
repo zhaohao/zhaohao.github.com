@@ -2,9 +2,9 @@
 layout: post
 title: 九型人格分析之我（二）
 date: 2008-03-16 20:13
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 ５号性格－观察者
 

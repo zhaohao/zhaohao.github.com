@@ -2,9 +2,9 @@
 layout: post
 title: 回家
 date: 2008-12-22 20:38
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我走在清晨六点无人的街带着一身疲倦，昨夜的沧桑匆忙早已麻木在不知名的世界。
 

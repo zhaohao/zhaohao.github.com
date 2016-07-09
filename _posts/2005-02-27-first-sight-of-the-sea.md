@@ -2,9 +2,9 @@
 layout: post
 title: 第一次看到海
 date: 2005-02-27 20:28
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 第一次看到海是在一年多前，也就是来到学校之后了，看着那浊黄的海水，心里隐隐有一丝的失落。
 

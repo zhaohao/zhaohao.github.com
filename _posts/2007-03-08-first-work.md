@@ -2,9 +2,9 @@
 layout: post
 title: 挤公车，实习
 date: 2007-03-08 20:25
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="float: left;color: #059494;font-size: 75px;line-height: 60px;padding-top: 4px;padding-right: 8px;padding-left: 3px;"><b>挤</b></span>公车好郁闷
 破天荒的第一次07点钟起床，冷的有点发抖，跑到饭堂却不想吃东西了，差不多有一个多月没吃过早餐了吧，于是随便要了碗白粥充数。

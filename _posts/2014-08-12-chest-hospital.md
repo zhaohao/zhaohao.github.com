@@ -2,9 +2,9 @@
 layout: post
 title: 百度地图
 date: 2014-08-12 09:50
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我的位置到广州市胸科医院第二门诊部
 换乘1次

@@ -2,9 +2,9 @@
 layout: post
 title: 梦想虚荣-改变-现实
 date: 2007-11-25 01:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 不知道如果再这样继续下去，会有个什么样的结局，会不会就这么庸庸碌碌一辈子？我不会甘心。 
 或许太过追求虚名，又不能做到身体力行，结果长久迷惘在不切实际的幻想之中不能自拔，心中的梦想离现实似乎越来越过遥远，心中的那种痛却随着时间的流逝越来越深，让人不敢去想……

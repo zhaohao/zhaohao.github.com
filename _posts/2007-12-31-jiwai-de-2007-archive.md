@@ -2,9 +2,9 @@
 layout: post
 title: 二零零七- 叽歪-存档
 date: 2007-12-31 23:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 2003-2007，我用四年的时光铸就了永远的悔恨！ 2007-12-31 周一 23:56:45 通过 GTalk
 

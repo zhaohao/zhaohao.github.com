@@ -2,9 +2,9 @@
 layout: post
 title: 泰戈尔-园丁集
 date: 2006-11-11 00:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我想要对你说出我要说我的最深的话语，我不敢，我怕你哂笑。
 因此我嘲笑自己，把我的秘密在玩笑中打碎。

@@ -2,9 +2,9 @@
 layout: post
 title: 小虫 – 有你真好
 date: 2012-07-13 13:24
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 每个人，都想快乐，有多少人，可以拥有？人海中，你遇过谁，那个人，你一定没有忘记。
 

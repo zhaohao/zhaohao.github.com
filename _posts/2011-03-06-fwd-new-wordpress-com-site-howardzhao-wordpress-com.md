@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New WordPress.com Site: Howardzhao.wordpress.com
+title: New WordPress Howardzhao.wordpress.com
 date: 2011-03-06 17:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div>Some useful links:
 Write a new post: <a href="http://howardzhao.wordpress.com/wp-admin/post-new.php" target="_blank">http://howardzhao.wordpress.com/wp-admin/post-new.php</a>

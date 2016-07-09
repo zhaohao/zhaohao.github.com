@@ -2,9 +2,9 @@
 layout: post
 title: 开学的第一天
 date: 2005-02-21 23:03
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 今天是开学的第一天，只有上午一次数电课，上午借完书就回到宿舍里睡觉了，接着独自去到图书馆里，打算着多看看书，晚饭的时候很饿，可是没有去吃饭，把找的小说书看下去，然后就不觉得饿了。
 

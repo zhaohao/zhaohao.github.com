@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 转载: 拖延症 (Procrastination)
+title: 转载 拖延症 (Procrastination)
 date: 2011-05-31 13:48
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 拖延症，英文Procrastination。取意"将之前的事情放置明天"。拖延症总是表现在各种小事上，但日积月累，特别影响个人发展。拖延现象现已成为管理学家和心理学家研究的一个重要课题。
 

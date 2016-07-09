@@ -2,9 +2,9 @@
 layout: post
 title: 关于”未名灏梦”
 date: 2009-01-03 14:46
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 未名灏梦，应该算是迟到03年才开始网虫生活的自己在网上最早的昵称了。
 

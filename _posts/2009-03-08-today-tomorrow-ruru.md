@@ -4,7 +4,7 @@ title: 今天的祝福，明天的孤独
 date: 2009-03-08 19:48
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 像一个吻刚结束，还留一丝湿度，然后挥发在空气里，找不到任何证物。
 也许结束太匆促，我伸手擦拭泪珠，还摸到爱来过的温度，才开始悔悟。

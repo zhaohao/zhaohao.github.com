@@ -4,7 +4,7 @@ title: 雅虎裁员指导文件-沟通的语言技巧
 date: 2010-01-10 16:50
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 作者： jmj | 2009-10-22
 周三,雅虎正在进行1500人的大裁员,而一份关于指导雅虎经理们如何裁人的内部PPT文档泄露了一些裁员细节.
@@ -68,4 +68,5 @@ categories: [Weblog]
 那些通过兼并加入雅虎的员工被裁时将按照收购时和雅虎签定的协议办理;
 
 对被裁员工在下次应聘正式员工职位时不提供"等待期";
+
 <div>http://haozhao.blogspot.com/</div>

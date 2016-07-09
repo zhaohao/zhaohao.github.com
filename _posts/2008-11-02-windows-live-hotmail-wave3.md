@@ -2,9 +2,9 @@
 layout: post
 title: Windows Live Hotmail Wave3
 date: 2008-11-02 11:24
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 今天登陆一个很久没用的live ID, 发现对应的Live Hotmail居然更新到了wave3,先前hotmail组发送的邮件介绍过的速度提高70%,虽然无法判断到底速度提高多少，但在新版本下明显感觉速度快了很多，尤其是打开邮件的时候。
 

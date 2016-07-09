@@ -4,7 +4,7 @@ title: 薇罗独语-中国的未来
 date: 2008-08-12 08:55
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 都说孩子是国家的未来，就从孩子说起。 <span style="color: #00b050;">薇罗独语&lt;<a href="http://www.verovie.net/?p=411" target="_blank"><u><span style="color: #00b050;"><strong>LINK</strong></span></u></a>&gt;</span>
 
@@ -12,9 +12,9 @@ categories: [Weblog]
 
 只是今天才得知，原来这歌压根儿就不是她唱的，而是另外一位名叫杨沛宜的小朋友。至于为什么不让杨沛宜亲自献唱，据开幕式音乐总监陈其钢透漏，杨沛宜的落选主要是因为考虑到对外形象，是为了国家利益。林妙可声音不行，但“形象漂亮，更会表演”。然而杨沛宜是不是真长得多么“有损国体”呢？好像也不至于：
 
-<img src="/wp-content/uploads/2008/08/200808120929303416.jpg" alt="" />
+<img src="/Resource/200808120929303416.jpg" alt="" />
 
-<img src="/wp-content/uploads/2008/08/re_5459f29f8e518.jpg" alt="" />
+<img src="/Resource/re_5459f29f8e518.jpg" alt="" />
 
 以上两张照片，哪张更像一个天真无邪的儿童，哪张是聪明伶俐之下被调教出来的标准笑脸，一望而知。
 

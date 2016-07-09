@@ -2,9 +2,9 @@
 layout: post
 title: 我要考研。。。
 date: 2006-08-14 00:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 离二月份的人生第二次高考只差几个月的时间了,可是还复习的一踏糊涂,现在真得是很迷茫呀。
 

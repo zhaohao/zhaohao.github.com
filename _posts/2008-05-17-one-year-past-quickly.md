@@ -2,9 +2,9 @@
 layout: post
 title: 一年很快过去
 date: 2008-05-17 21:53
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 六月的天 浮躁遍及幽深的校道
 

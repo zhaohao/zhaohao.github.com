@@ -4,7 +4,7 @@ title: 又是一些ANBB的只言片语
 date: 2007-05-23 22:00
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 有时候网络像一双翅膀，你拥有了它，就能接近梦想的天空，如果没有翅膀，就只能在平地上徘徊。虽然很难说，飞与不飞，哪一种才是幸福。
 
@@ -47,4 +47,5 @@ categories: [Weblog]
 生是过客,跋涉虚无之境。
 
 没有未来的人，没有未来给你，自己都没有未来哪有你的。
+
 <div>http://haozhao.blogspot.com/</div>

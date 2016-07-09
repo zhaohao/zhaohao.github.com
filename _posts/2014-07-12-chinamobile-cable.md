@@ -2,9 +2,9 @@
 layout: post
 title: 广州移动光纤宽带
 date: 2014-07-12 11:24
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 从搬到家这边住就开通了电信的ADSL宽带，从最初的4Mb下行速率到后来6Mb再到8Mb一路走来，用了整整4年。
 

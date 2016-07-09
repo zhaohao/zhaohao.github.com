@@ -2,9 +2,9 @@
 layout: post
 title: Starry Starry Night
 date: 2009-03-09 21:13
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 美国著名民谣歌手Don McLean（唐·麦克林）的《Starry Starry Night》（星夜）是Don McLean为纪念荷兰的伟大画家文森特·梵高而作，收录在那张为其赢来巨大声誉的专辑《American Pie》（美国派）里。
 
@@ -12,7 +12,7 @@ categories: [Weblog]
 
 梵高最受人爱戴的名画之一就是1889年他住在St.Remy精神病院内所画的The Starry Night，也就是Don McLean在《Starry Starry Night》的第一句歌词。这幅名画The Starry Night现放于纽约Museum of Modern Art内，每天开始及完结时，艺术馆都会播放DonMcLean的《Starry Starry Night》这首名曲。
 
-<a href="/wp-content/uploads/2009/03/starry-night.jpg"><img src="/wp-content/uploads/2009/03/starry-night.jpg" alt="starry-night" width="500" height="398" class="alignnone size-full wp-image-655" /></a>
+<a href="/Resource/starry-night.jpg"><img src="/Resource/starry-night.jpg" alt="starry-night" width="500" height="398" class="alignnone size-full wp-image-655" /></a>
 Starry Night
 
 Posted on 2009-03-09 21:13

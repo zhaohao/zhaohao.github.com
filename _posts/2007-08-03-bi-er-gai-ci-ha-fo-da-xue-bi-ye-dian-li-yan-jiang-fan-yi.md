@@ -4,7 +4,7 @@ title: 比尔·盖茨哈佛大学毕业典礼演讲翻译
 date: 2007-08-03 14:35
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div id="msgcns!A2B21BA57C861B3E!355" class="bvMsg">
 <div></div>

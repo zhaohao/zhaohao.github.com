@@ -4,15 +4,15 @@ title: 一个星期没有写东西了
 date: 2007-06-09 15:12
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 已经有一个星期没有再写些什么了，无论如何加一点点东西吧。
 昨天又到差不多四点才睡觉，发现了都市圈这个三维地图站点，可以清晰的查看广州的几乎每一个建筑物，每一条道路，而且非常清晰。并且标注信息齐全，鼠标放到建筑物上自动显示相关信息。一小块截图如下：
-<a href="/wp-content/uploads/2007/06/o.jpg"><img id="BLOGGER_PHOTO_ID_5073964363406189938" src="/wp-content/uploads/2007/06/o-300x148.jpg" alt="" border="0" /></a>
+<a href="/Resource/o.jpg"><img id="BLOGGER_PHOTO_ID_5073964363406189938" src="/Resource/o.jpg" alt="" border="0" /></a>
 
 <hr size="2" width="100%" />
 
-原来申请的一个yahoo.com雅虎奇摩的帐号因为编码默认繁体的问题老是邮件乱码，每次都要改编码方式，今天把区域改回来中国大陆。应该以后不会有问题了。发现yahoo中的一个图片不错：<a href="/wp-content/uploads/2007/06/addrguard.jpg"><img id="BLOGGER_PHOTO_ID_5073967558861858178" style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="/wp-content/uploads/2007/06/addrguard.jpg" alt="" border="0" /></a>
+原来申请的一个yahoo.com雅虎奇摩的帐号因为编码默认繁体的问题老是邮件乱码，每次都要改编码方式，今天把区域改回来中国大陆。应该以后不会有问题了。发现yahoo中的一个图片不错：<a href="/Resource/addrguard.jpg"><img id="BLOGGER_PHOTO_ID_5073967558861858178" style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="/Resource/addrguard.jpg" alt="" border="0" /></a>
 
 &nbsp;
 

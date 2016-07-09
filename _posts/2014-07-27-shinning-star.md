@@ -2,11 +2,11 @@
 layout: post
 title: 夜空中最亮的星
 date: 2014-07-27 16:04
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
-[audio mp3="https://howardzhao.com/wp-content/uploads/2014/07/ykzzldx.mp3"][/audio]
+<p><audio controls="controls"><source src="/Resource/ykzzldx.mp3" type="audio/mp3">HTML5 audio not supported!</audio></p>
 夜空中最亮的星 能否听清
 那仰望的人心底的孤独和叹息
 夜空中最亮的星 能否记起
@@ -28,6 +28,6 @@ categories: [Weblog]
 夜空中最亮的星 能否听清
 那仰望的人心底的孤独和叹息
 
-[audio mp3="https://howardzhao.com/wp-content/uploads/2014/07/star.mp3"][/audio]
+<p><audio controls="controls"><source src="/Resource/star.mp3" type="audio/mp3">HTML5 audio not supported!</audio></p>
 
-<a href="/wp-content/uploads/2014/07/shinning-star.jpg"><img src="/wp-content/uploads/2014/07/shinning-star-1024x819.jpg" alt="shinning-star" width="700" height="559" /></a>
+<a href="/Resource/shinning-star.jpg"><img src="/Resource/shinning-star.jpg" alt="shinning-star" width="700" height="559" /></a>

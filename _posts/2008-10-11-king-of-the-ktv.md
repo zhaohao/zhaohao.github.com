@@ -2,9 +2,9 @@
 layout: post
 title: K歌之王
 date: 2008-10-11 21:05
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我以为要是唱的用心良苦，你总会对我多点在乎；我以为虽然爱情已成往事，千言万语说出来可以互相安抚。
 期待你感动，真实的我们难相处，写词的让我，唱出你要的幸福。谁曾经感动，分手的关头才懂得，离开排行榜更铭心刻骨。

@@ -4,7 +4,7 @@ title: 无意，真的无意
 date: 2008-01-15 22:07
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 无意中敲进那几个熟悉的字母，想再体验下那白底黑字的失落感，可没想到状态栏显示加载了那么几个熟悉的地址，于是又一次直接见到了这久违的页面。
 

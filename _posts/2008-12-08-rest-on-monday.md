@@ -2,9 +2,9 @@
 layout: post
 title: 周一了，休息
 date: 2008-12-08 00:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 十二月一日，上班的地方网络断掉，就不能在白天上网了，这算是对长久以来习惯的一个改变较大的事情吧。
 

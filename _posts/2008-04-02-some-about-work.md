@@ -2,9 +2,9 @@
 layout: post
 title: 能干的不听话
 date: 2008-04-02 21:47
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 FROM:布珞阁 &lt;2007.04.5 21:15 bruce&gt;
 

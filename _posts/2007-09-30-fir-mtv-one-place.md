@@ -2,9 +2,9 @@
 layout: post
 title: F.I.R MTV有一个地方
 date: 2007-09-30 23:15
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我一直相信，在这世上存在着一个地方，一个让现实抓不到你的地方
 在那里，梦想离你很近，很近……

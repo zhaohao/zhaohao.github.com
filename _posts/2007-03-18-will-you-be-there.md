@@ -4,7 +4,7 @@ title: Will You Be There
 date: 2007-03-18 16:35
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Michael Jackson －Will You Be There
 

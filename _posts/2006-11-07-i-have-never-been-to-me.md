@@ -4,7 +4,7 @@ title: I've never been to me
 date: 2006-11-07 00:03
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div>
 

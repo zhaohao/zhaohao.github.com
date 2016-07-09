@@ -2,9 +2,9 @@
 layout: post
 title: 宅在屋里时间错乱的周末
 date: 2008-12-14 22:52
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 周末，这又是一个混乱的周末。
 

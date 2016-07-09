@@ -2,9 +2,9 @@
 layout: post
 title: 关于stardust
 date: 2008-07-07 22:29
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。
 

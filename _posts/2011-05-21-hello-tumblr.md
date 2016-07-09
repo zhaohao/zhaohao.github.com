@@ -2,9 +2,9 @@
 layout: post
 title: Hello,tumblr.
 date: 2011-05-21 21:29
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 2011-05-21 Hello,tumblr.
 

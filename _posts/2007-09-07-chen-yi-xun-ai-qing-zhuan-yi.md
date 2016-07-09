@@ -4,7 +4,7 @@ title: 陈奕迅 - 爱情转移
 date: 2007-09-07 12:14
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 电影《爱情呼叫转移》主题曲
 作曲：Christopher Chak

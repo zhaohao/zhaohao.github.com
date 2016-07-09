@@ -2,9 +2,9 @@
 layout: post
 title: Vector RB-100钟控收音机
 date: 2015-05-01 11:55
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 这几天迷上大数字LED时钟，在淘宝上搜到了Vector RB-100钟控收音机，但看到买的人不多，看起来很不错，挺大的数字LED显示，当房间里的夜光时钟不错。
 
@@ -14,10 +14,10 @@ categories: [Weblog]
 
 外壳也没有预想的粗糙感，很细致。想自己打开看看调高光、低光的问题，去掉仅有的两个螺丝后无从下手了，外壳还是卡的紧紧的，看来内部的卡扣有很多，无损拆开看来难度不小，索性先放下了。
 
-<a href="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-24-51.jpg"><img src="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-24-51-1024x681.jpg" alt="Nikon 2015-04-29 22-24-51" width="1024" height="681" class="alignnone size-large wp-image-248" /></a>
+<a href="/Resource/Nikon-2015-04-29-22-24-51.jpg"><img src="/Resource/Nikon-2015-04-29-22-24-51.jpg" alt="Nikon 2015-04-29 22-24-51" width="1024" height="681" class="alignnone size-large wp-image-248" /></a>
 
-<a href="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-06.jpg"><img src="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-06-1024x681.jpg" alt="Nikon 2015-04-29 22-25-06" width="1024" height="681" class="alignnone size-large wp-image-249" /></a>
+<a href="/Resource/Nikon-2015-04-29-22-25-06.jpg"><img src="/Resource/Nikon-2015-04-29-22-25-06.jpg" alt="Nikon 2015-04-29 22-25-06" width="1024" height="681" class="alignnone size-large wp-image-249" /></a>
 
-<a href="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-17.jpg"><img src="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-17-1024x681.jpg" alt="Nikon 2015-04-29 22-25-17" width="1024" height="681" class="alignnone size-large wp-image-250" /></a>
+<a href="/Resource/Nikon-2015-04-29-22-25-17.jpg"><img src="/Resource/Nikon-2015-04-29-22-25-17.jpg" alt="Nikon 2015-04-29 22-25-17" width="1024" height="681" class="alignnone size-large wp-image-250" /></a>
 
-<a href="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-27.jpg"><img src="/wp-content/uploads/2015/05/Nikon-2015-04-29-22-25-27-1024x681.jpg" alt="Nikon 2015-04-29 22-25-27" width="1024" height="681" class="alignnone size-large wp-image-251" /></a>
+<a href="/Resource/Nikon-2015-04-29-22-25-27.jpg"><img src="/Resource/Nikon-2015-04-29-22-25-27.jpg" alt="Nikon 2015-04-29 22-25-27" width="1024" height="681" class="alignnone size-large wp-image-251" /></a>

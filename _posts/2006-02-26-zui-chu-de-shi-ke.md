@@ -2,9 +2,9 @@
 layout: post
 title: 最初的时刻。。。
 date: 2006-02-26 23:45
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 这么多天以来，有太多的时间泡在网上，开着QQ，看着邮箱，不知道是不是在等待什么，但是又不敢真正的面对真实的世界，总是把自己隐身起来，独自呆在网上，看着一个个红色的头像，而不说任何的话，但是又忍不住那种冲动，所以还是不下线，看到一个个人到来，一个个人离去，似乎只是为在看到别人到来时那种感觉而等待等待。
 

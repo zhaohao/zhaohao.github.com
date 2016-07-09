@@ -4,7 +4,7 @@ title: 安装windows Fonts到ubuntu
 date: 2011-04-06 13:40
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 1 拷贝微软字体到桌面的windows7fonts文件：
 2 sudo gnome-open /usr/share/fonts ———————打开fonts文件夹

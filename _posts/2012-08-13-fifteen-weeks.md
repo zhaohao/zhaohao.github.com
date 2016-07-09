@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十五周
 date: 2012-08-13 05:46
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 在15-18周之间是做产前诊断的最佳时期，现在你需要做一次产前诊断了。
 

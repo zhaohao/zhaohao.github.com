@@ -4,7 +4,7 @@ title: 两句话
 date: 2007-04-12 22:35
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 有没有终点谁能知道，在这尘世的无间道
 

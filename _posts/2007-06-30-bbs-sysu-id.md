@@ -2,9 +2,9 @@
 layout: post
 title: 逸仙时空之ID
 date: 2007-06-30 23:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Welcome to Sun Yat-sen (Zhongshan) University Yat-sen Channel BBS 
 欢 迎 莅 临 中 山 大 学 "逸 仙 时 空" BBS 工具箱选单 

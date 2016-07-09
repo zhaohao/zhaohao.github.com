@@ -2,9 +2,9 @@
 layout: post
 title: 中秋时节
 date: 2008-09-14 01:33
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 中秋的广州不似秋，这几天三十五六度的天气俨然仍是酷暑。
 

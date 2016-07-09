@@ -2,14 +2,14 @@
 layout: post
 title: Android L Developer Preview
 date: 2014-10-23 16:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Android 5.0 (Lollipop) is almost here and users will begin receiving device updates in November.
 To help you prepare, the Android 5.0 SDK is now available with final APIs.
 
-<a href="/wp-content/uploads/2014/10/Android-l.png"><img class="alignnone size-full wp-image-793" src="/wp-content/uploads/2014/10/Android-l.png" alt="Android-l" width="510" height="333" /></a>
+<a href="/Resource/Android-l.png"><img class="alignnone size-full wp-image-793" src="/Resource/Android-l.png" alt="Android-l" width="510" height="333" /></a>
 
 <hr />
 

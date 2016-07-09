@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 8999-The Sound of Silence
+title: Days8999]The Sound of Silence
 date: 2009-07-23 00:22
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Hello darkness, my old friend
 I've come to talk with you again

@@ -4,7 +4,7 @@ title: 折腾域名
 date: 2009-04-20 23:03
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 折腾域名告一段落。
 

@@ -2,9 +2,9 @@
 layout: post
 title: To Run,I Run,I Run To Stop,I Stop To Run
 date: 2006-10-10 15:15
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 为了走开我走开 为了留下我留下
 为了走开我走开 为了留下我留下

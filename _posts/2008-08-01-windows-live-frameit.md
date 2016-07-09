@@ -2,9 +2,9 @@
 layout: post
 title: Windows Live FrameIt
 date: 2008-08-01 09:06
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Welcome!
 

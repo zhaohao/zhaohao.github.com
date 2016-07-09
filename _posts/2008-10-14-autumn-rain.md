@@ -2,9 +2,9 @@
 layout: post
 title: 秋雨小记
 date: 2008-10-14 00:30
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 早上又像原来一样等摁掉了三次闹钟才迷迷糊糊的爬起来洗漱，晚上睡得应该是不好，不然怎么还是这样会早上起床都是很累的感觉呢！
 

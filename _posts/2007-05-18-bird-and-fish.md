@@ -4,10 +4,12 @@ title: 齐豫-飞鸟与鱼
 date: 2007-05-18 00:17
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 bluestardust
-<br /><p>
+<br />
+
+
 飞鸟与鱼，喜欢歌曲的旋律，但是有些悲凉的感觉
 
-[embed]https://howardzhao.com/wp-content/uploads/zhaohao/birdandfish.mp3[/embed]
+<p><audio controls="controls"><source src="/Resource/birdandfish.mp3" type="audio/mp3">HTML5 audio not supported!</audio></p>

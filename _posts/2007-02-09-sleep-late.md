@@ -2,9 +2,9 @@
 layout: post
 title: 现在四点多快五点了，还没有睡
 date: 2007-02-09 04:44
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 本打算今天能够早睡，不到一点就躺下了，结果可能生物钟已经错乱了，最初的一点睡意也一点点消失了而且今天很热，穿着短袖还有想出汗的感觉。
 

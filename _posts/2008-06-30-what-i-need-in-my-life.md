@@ -4,7 +4,7 @@ title: 一生何求
 date: 2008-06-30 21:47
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 一生何求-陈百强
 

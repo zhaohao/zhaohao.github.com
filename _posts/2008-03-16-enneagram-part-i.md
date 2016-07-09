@@ -2,9 +2,9 @@
 layout: post
 title: 九型人格分析之我（一）
 date: 2008-03-16 20:34
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 九型人格分析
 

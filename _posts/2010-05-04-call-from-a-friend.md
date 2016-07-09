@@ -4,7 +4,7 @@ title: 昨天接到朋友电话，都快要做爸爸了，祝福
 date: 2010-05-04 11:50
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div>
 <div style="text-align: left;" align="left">

@@ -2,9 +2,9 @@
 layout: post
 title: 半夜下起大雨来了
 date: 2008-07-06 02:54
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 广州这几天真的够热的，熬夜到两点多，仍然感觉热气时刻包围着自己。
 

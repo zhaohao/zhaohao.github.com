@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十二周
 date: 2012-07-24 20:34
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 胎儿现在身长大约有65毫米，从牙胚到趾甲，身体的雏形已经发育完成。胎儿的手指和脚趾已经完全分离，一部分骨骼开始变得坚硬，并出现关节雏形。
 

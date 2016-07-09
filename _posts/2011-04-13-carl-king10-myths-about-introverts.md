@@ -2,9 +2,9 @@
 layout: post
 title: Carl King:10 Myths About Introverts
 date: 2011-04-13 16:13
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <a href="http://www.carlkingcreative.com/10-myths-about-introverts">http://www.carlkingcreative.com/10-myths-about-introverts</a><br />
 I was lucky enough to discover a book called, The Introvert Advantage (How To Thrive in an Extrovert World), by Marti Laney, Psy.D. I feel like someone has written an encyclopedia entry on a rare race of people to which I belong. Not only has it explained many of my eccentricities, it helps me to redefine my entire life in a new and positive context.<br />
@@ -36,4 +36,6 @@ A world without Introverts would be a world with few scientists, musicians, arti
 It can be terribly destructive for an Introvert to deny themselves in order to get along in an Extrovert-Dominant World. Like other minorities, Introverts can end up hating themselves and others because of the differences. If you think you are an Introvert, I recommend you research the topic and seek out other Introverts to compare notes. The burden is not entirely on Introverts to try and become “normal.” Extroverts need to recognize and respect us, and we also need to respect ourselves.<br />
 Let me know your thoughts.<br />
 -Carl.<br />
-<a href="http://www.carlkingcreative.com/10-myths-about-introverts">http://www.carlkingcreative.com/10-myths-about-introverts</a><div>http://haozhao.blogspot.com/</div>
+<a href="http://www.carlkingcreative.com/10-myths-about-introverts">http://www.carlkingcreative.com/10-myths-about-introverts</a>
+
+<div>http://haozhao.blogspot.com/</div>

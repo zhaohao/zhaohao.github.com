@@ -2,9 +2,9 @@
 layout: post
 title: I sing,I swim
 date: 2009-05-10 10:01
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 When the birds are sleeping,that's when the trees sing. 
 You left your winter clothes,and your teeth marks in my skin.

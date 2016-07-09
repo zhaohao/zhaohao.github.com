@@ -4,7 +4,7 @@ title: 又是一个通宵
 date: 2007-06-13 05:42
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 早上六点睡觉，到中午才起床，再这样下去会疯掉的。
 

@@ -2,9 +2,9 @@
 layout: post
 title: 能听到外面的雨声
 date: 2008-12-27 17:04
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 又挺久没有记下些东西了，生活依然是浑浑噩噩，没有起色。
 

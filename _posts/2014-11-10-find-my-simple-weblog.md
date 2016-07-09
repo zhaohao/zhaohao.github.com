@@ -2,9 +2,9 @@
 layout: post
 title: 找回简单的Weblog
 date: 2014-11-10 16:25
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 选择太多会让人更加迷乱。
 

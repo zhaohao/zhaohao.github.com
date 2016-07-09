@@ -2,9 +2,9 @@
 layout: post
 title: Tagore Words
 date: 2011-03-05 21:21
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Tagore Words~~~
 Once we dreamt that we were strangers. We wake up to find that we were dear to each other.

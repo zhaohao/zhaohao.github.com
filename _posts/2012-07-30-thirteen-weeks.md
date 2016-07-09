@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十三周
 date: 2012-07-30 09:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 进入孕中期，胎儿看上去更象一个漂亮娃娃了，他（她）的眼睛突出在头的额部，两眼之间的距离在缩小，耳朵也已就位。
 

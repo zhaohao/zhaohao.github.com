@@ -2,9 +2,9 @@
 layout: post
 title: 原来你也在这里
 date: 2008-09-01 09:10
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 请允许我尘埃落定，用沉默埋葬了过去，满身风雨我从海上来，才隐居在这沙漠里。
 

@@ -2,9 +2,9 @@
 layout: post
 title: 又是一天虚无飘渺的生活
 date: 2006-12-02 15:24
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 无聊到极至，不是因为没有事情可做，而是有一大堆的必须要做的事情而自己怎么也静不下心来去做，这几个月来真正体会到了心如刀绞的滋味，有些夸张，但真的很难过。 中午去吃饭，路上的桂花开了，清香的味道一路飘散，刻意去闻，反而只有淡淡的绿叶的气息。
 

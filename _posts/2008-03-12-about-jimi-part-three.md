@@ -4,7 +4,7 @@ title: 關于幾米（三）
 date: 2008-03-12 21:48
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 我和我的「小人」-&lt;幾米&gt;
 

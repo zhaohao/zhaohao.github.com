@@ -4,7 +4,7 @@ title: 国内域名转移问题
 date: 2009-04-14 22:20
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 选择本以为得到转移密码就OK了，没想到又遇到whois问题，中国的东西，让人拿什么信任……
 

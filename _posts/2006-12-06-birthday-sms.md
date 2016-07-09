@@ -2,9 +2,9 @@
 layout: post
 title: 迟来的生日短信
 date: 2006-12-06 00:30
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 收到生日的短信，可惜今人已非故人暸。
 

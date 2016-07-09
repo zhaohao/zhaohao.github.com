@@ -2,9 +2,9 @@
 layout: post
 title: 小说-广州的一场春梦-尾声
 date: 2006-12-13 22:19
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 明白一些东西的时候 却是最不需要明白的时候
 

@@ -2,9 +2,9 @@
 layout: post
 title: VITAS-星星
 date: 2008-09-02 21:34
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 无数次的问自己，我为何而生、为何而存在？
 为何行云流动、为何风雨不止？活在这个世界，我在期盼着什么事情？

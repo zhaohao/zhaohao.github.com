@@ -2,9 +2,9 @@
 layout: post
 title: 一些零碎的东西
 date: 2008-09-11 01:30
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 刚刚能感受到一点秋意的时候马上又进入了酷热之中。本来晚上有单位"单身者"的中秋聚餐的，可是对这里没有太多的归属感进而对这种活动没有任何想去的冲动。
 

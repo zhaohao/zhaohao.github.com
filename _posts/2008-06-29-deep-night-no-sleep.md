@@ -2,9 +2,9 @@
 layout: post
 title: 深夜接近三点，辗转反侧
 date: 2008-06-29 02:50
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 深夜接近三点，辗转反侧，受够了一年来心中的煎熬，Quit? Not quit?
 

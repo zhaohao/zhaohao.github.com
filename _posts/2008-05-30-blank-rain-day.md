@@ -2,9 +2,9 @@
 layout: post
 title: 下雨的时候&空白
 date: 2008-05-30 12:51
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 中午，办公室（或许可以这么称呼）里静悄悄的，只剩下空调呜呜的声音和自己手指敲击键盘发出的嗒嗒声。透过窗户可以感觉到外面阴沉的天气。
 

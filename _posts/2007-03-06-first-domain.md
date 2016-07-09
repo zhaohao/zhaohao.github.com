@@ -2,9 +2,9 @@
 layout: post
 title: 接触域名Office Live Domain
 date: 2007-03-06 11:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="float: left;color: #059494;font-size: 75px;line-height: 60px;padding-top: 4px;padding-right: 8px;padding-left: 3px;"><b>域名</b></span>又一次说严重点是背叛了祖国，用了美国的地址邮编电话申请到了office live服务的帐号，那张废品龙卡终于有一点点用处了，当作身份验证码了，不过不知道所说的扣去一美元然后再返还的事情有没有发生。
 

@@ -2,9 +2,9 @@
 layout: post
 title: Will you still love me tomorrow?
 date: 2008-08-15 23:58
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 午夜的收音机，轻轻传来一首歌，那是你我都已熟悉的旋律，在你遗忘的时候我依然还记得，明天你是否依然爱我？
 

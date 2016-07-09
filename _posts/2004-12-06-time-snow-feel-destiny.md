@@ -2,9 +2,9 @@
 layout: post
 title: 时间、雪、心情、命运
 date: 2004-12-06 23:55
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 每个人的命运是不同的
 

@@ -2,9 +2,9 @@
 layout: post
 title: 这一年多来太低效了
 date: 2008-08-18 02:02
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 快两点了，本来十二点多就躺下了，不过到现在还没有睡着，乱七八糟的东西在脑海里飘悠。
 

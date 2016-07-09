@@ -4,7 +4,7 @@ title: 早上上班，紧邻的小学活动
 date: 2009-04-30 09:00
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 早上上班，紧邻的小学活动，几十辆大巴排队停在路两侧，声势很大……
 

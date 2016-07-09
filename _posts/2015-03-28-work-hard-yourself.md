@@ -2,9 +2,9 @@
 layout: post
 title: 你不努力，谁也给不了你想要的生活[转]
 date: 2015-03-28 11:08
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="float: left; color: #059494; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px;"><b>现</b></span>在凌晨零点三十八分，我刚挂了电话，与我的好姐妹。
 

@@ -2,9 +2,9 @@
 layout: post
 title: Goagent客户端漏洞
 date: 2014-12-06 16:41
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Goagent客户端惊现pac漏洞，可被远程遍历目录及下载任意文件。
 

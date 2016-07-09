@@ -2,9 +2,9 @@
 layout: post
 title: 东邪西毒终极
 date: 2009-04-02 23:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 "佛祖有云，旗未动，风也未动，是人的心自己在动…… "
 

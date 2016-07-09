@@ -4,7 +4,7 @@ title: 这是一些乱七八糟的东西
 date: 2007-05-27 01:18
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 昨天早上居然到十点半才起床，够那个什么的了……
 

@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十八周
 date: 2012-09-05 15:45
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 进入孕18周，宝宝现在大概有14厘米长，重160-198克。
 

@@ -2,9 +2,9 @@
 layout: post
 title: Enya – Wild Child
 date: 2008-04-12 00:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 A day without rain
 

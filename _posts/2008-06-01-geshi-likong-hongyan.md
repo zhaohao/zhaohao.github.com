@@ -2,9 +2,9 @@
 layout: post
 title: 隔世离空的红颜
 date: 2008-06-01 22:40
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 谁会相信雨滴会变成一杯咖啡，种子会开成鲜丽的玫瑰。孤寂的旅途是单程的约会，相近 相识后各自而飞。
 

@@ -4,7 +4,7 @@ title: 无聊，Outlook2010签名测试
 date: 2010-04-30 17:45
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div>
 <div style="text-align: left;" align="left">

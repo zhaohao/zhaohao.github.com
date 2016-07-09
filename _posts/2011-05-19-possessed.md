@@ -2,9 +2,9 @@
 layout: post
 title: 鬼迷心窍
 date: 2011-05-19 12:44
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="top" style="font: inherit;"><div>曾经真的以为人生就这样了，平静的心拒绝再有浪潮，斩了千次的情丝却断不了，百转千折它将我围绕……
 

@@ -2,9 +2,9 @@
 layout: post
 title: 今天-真永远
 date: 2008-08-09 20:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 走过岁月我才发现世界多不完美，成功或失败都有一些错觉
 沧海有多广 江湖有多深，局中人才了解

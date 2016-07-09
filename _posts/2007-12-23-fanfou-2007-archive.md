@@ -2,9 +2,9 @@
 layout: post
 title: 二零零七-饭否-存档
 date: 2007-12-23 23:30
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 钟声敲响,新年来临.有人沮丧,有人举杯;有人呼喊,有人沉默;有人立志,有人放弃;“有人以他们的痛苦为哲学,有人以他们的财富为哲学”;最后,必然地,有人生,亦有人死.---&lt;东方早报&gt;
 2007-12-23 10:41 通过 MSN

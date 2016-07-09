@@ -4,14 +4,14 @@ title: Dawn of a New Century
 date: 2007-04-06 14:34
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Secret Garden
 
 Imagine. Our planet floating silently in space. 
 Around it, a white dove flies, forever circling. 
 Every one hundred years, the dove's wing gently touches the face of the earth. 
-The time it would take for the feathered wing to wear this planet down to nothing is eternity. 
+The time it would take for the feathered wing to wear this planet down to nothing is eternity.
 
 Within eternity time passes. 
 Within time, there is change. 

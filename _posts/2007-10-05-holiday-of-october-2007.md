@@ -2,9 +2,9 @@
 layout: post
 title: 2007年的十一假期
 date: 2007-10-05 00:35
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 2007年的十一假期不觉中已经到了第五天。
 伴随着桃花深处的声音，静静的看时间一分一秒的消逝。

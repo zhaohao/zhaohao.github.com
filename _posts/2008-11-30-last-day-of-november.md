@@ -2,9 +2,9 @@
 layout: post
 title: 十一月的最后一天
 date: 2008-11-30 17:19
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 周末，昨晚上到三点半才睡觉，很长时间处于半睡半醒的状态之中，迷糊中有很不踏实的感觉。
 

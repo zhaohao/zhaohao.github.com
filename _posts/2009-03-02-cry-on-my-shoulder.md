@@ -4,7 +4,7 @@ title: Cry on my Shoulder
 date: 2009-03-02 21:38
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Deutschland sucht den superstar
 

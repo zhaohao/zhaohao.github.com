@@ -4,7 +4,7 @@ title: 九月的最后一天
 date: 2007-09-30 21:53
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 连续发呆了一个月的时间，不知道自己的未来在哪里。
 

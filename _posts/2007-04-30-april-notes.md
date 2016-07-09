@@ -2,9 +2,9 @@
 layout: post
 title: 四月 April
 date: 2007-04-30 22:50
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 今天难得有很灿烂的阳光，蓝天白云，灿烂的阳光，舒服清凉的温度。
 Wednesday, April 18, 2007 20:08

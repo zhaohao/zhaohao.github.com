@@ -4,7 +4,7 @@ title: 再听老歌-忘情水
 date: 2009-03-15 22:55
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 曲：陈耀川 词：李安修
 曾经年少爱追梦，一心只想往前飞，行遍千山和万水， 一路走来不能回。

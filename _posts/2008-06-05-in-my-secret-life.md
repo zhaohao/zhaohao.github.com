@@ -4,7 +4,7 @@ title: In my Secret Life
 date: 2008-06-05 15:40
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 LEONARD COHEN LYRICS
 

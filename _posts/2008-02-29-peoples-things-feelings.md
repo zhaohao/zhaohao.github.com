@@ -2,9 +2,9 @@
 layout: post
 title: 一些人,一些事,一些心情
 date: 2008-02-29 21:16
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 一些天，一些人，一些事，时间流逝，所有一切都在默默的发生着，无法挽留的离开越来越远。
 

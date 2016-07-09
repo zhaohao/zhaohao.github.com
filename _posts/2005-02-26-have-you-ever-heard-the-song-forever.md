@@ -2,9 +2,9 @@
 layout: post
 title: Have you ever heard the song Forever?
 date: 2005-02-26 15:05
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Every time I hear its simple words,my mind will fly to another world,a world full of stardust :
 

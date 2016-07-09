@@ -2,9 +2,9 @@
 layout: post
 title: 转摘：我们心中的一些动画
 date: 2009-01-31 22:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 1、机器猫　　一句话点评：那个不论我们有多笨拙、多弱小、犯多少错误、也还是永远不会背弃我们的朋友。
 

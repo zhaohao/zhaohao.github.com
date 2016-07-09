@@ -4,7 +4,7 @@ title: 假如
 date: 2008-09-07 09:03
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 淡淡的微笑还在嘴角，算是勉强的一点征兆，眼眶的温度在沸腾那一秒，留给年华一段刻骨线条。
 
@@ -20,4 +20,5 @@ categories: [Weblog]
 假如时光倒流到最初遇见那条街道，假如那时爱情来的不迟也不早就好，假如记忆重新翻回到那个陌生的笑，假如我们没有那么用力的想要逃。
 
 假如你说，假如还有，什么需要祈祷。假如我说，假如没有，线一样断掉……
+
 <div>http://haozhao.blogspot.com/</div>

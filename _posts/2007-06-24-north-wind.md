@@ -4,7 +4,7 @@ title: 北风
 date: 2007-06-24 20:58
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 曲名：北 风 歌手：张 镐哲 专辑：恋人
 

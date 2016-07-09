@@ -4,7 +4,7 @@ title: 伸手摘星
 date: 2006-11-26 23:35
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 失去，也是一种笃定。
 

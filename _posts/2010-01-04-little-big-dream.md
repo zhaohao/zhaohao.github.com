@@ -2,9 +2,9 @@
 layout: post
 title: 或大或小的梦想
 date: 2010-01-04 17:32
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 每个人在现实的背后都有着或大或小的梦想~
 

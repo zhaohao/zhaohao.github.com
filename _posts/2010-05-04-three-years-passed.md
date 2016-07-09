@@ -4,7 +4,7 @@ title: 三年的时间恍然而过
 date: 2010-05-04 11:47
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 困惑中，三年时间自己有怎样的收获？
 
@@ -22,10 +22,10 @@ categories: [Weblog]
 
 希望自己能够说话朗利一点，做事干脆一点，决定果断一点~
 
-_____
+<hr />
 
 zhaohao
 
-_____
+<hr />
 
 Tuesday AM 2010-5-4

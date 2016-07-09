@@ -2,9 +2,9 @@
 layout: post
 title: 好孕的健康分享 第十七周
 date: 2012-08-29 12:31
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 这个星期进入了胎宝宝发育的关键期，循环系统、尿道等也开始工作。
 

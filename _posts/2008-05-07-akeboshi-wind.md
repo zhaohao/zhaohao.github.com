@@ -4,7 +4,7 @@ title: Akeboshi-Wind
 date: 2008-05-07 21:54
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="font-family:arial;">naruto
 
@@ -35,4 +35,4 @@ coz there is always a straight way to the point you see
 don't try to live so wise.
 don't cry coz you're so right.
 don't dry with fakes or fears.
-coz you will hate yourself in the end. 
+coz you will hate yourself in the end.

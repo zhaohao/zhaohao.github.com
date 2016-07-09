@@ -2,9 +2,9 @@
 layout: post
 title: 跑步去番禺广场
 date: 2015-05-24 21:58
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Acui今天P班，心血来潮出门去广场接她顺道跑步。湿气腾腾的空气，一种压抑的感觉铺天盖地。
 

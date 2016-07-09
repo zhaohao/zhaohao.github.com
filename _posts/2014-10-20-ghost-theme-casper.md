@@ -2,9 +2,9 @@
 layout: post
 title: 修改Ghost博客Casper主题，配置时区
 date: 2014-10-20 17:10
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 1.修改主题配色。
 

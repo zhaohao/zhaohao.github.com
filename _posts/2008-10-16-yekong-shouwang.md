@@ -2,9 +2,9 @@
 layout: post
 title: 永远的守望-夜空守望者
 date: 2008-10-16 22:52
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 到了周三晚上习惯性的调到那个频道，却不再能听到那个熟悉的声音……
 

@@ -2,9 +2,9 @@
 layout: post
 title: 突然想开音箱大声的放歌……
 date: 2009-05-02 15:07
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 五一假期，有些不知所措，不知道怎么安排……
 

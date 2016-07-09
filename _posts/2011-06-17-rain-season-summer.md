@@ -2,9 +2,9 @@
 layout: post
 title: 雨季,Summer
 date: 2011-06-17 20:45
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 纷繁复杂的世界，纷繁复杂的梦，伴着时时灼热的阳光、时时清凉的雨水，悄无声息的慢慢改变着……
 

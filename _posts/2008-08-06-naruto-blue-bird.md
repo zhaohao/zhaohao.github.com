@@ -2,9 +2,9 @@
 layout: post
 title: Naruto-青鸟
 date: 2008-08-06 22:13
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 如果振翅高飞，我说过不会再回来，目标是那，蔚蓝的 蔚蓝的 天空。
 

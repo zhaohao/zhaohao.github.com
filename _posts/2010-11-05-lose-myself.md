@@ -2,9 +2,9 @@
 layout: post
 title: 有时候突然找不到自己
 date: 2010-11-05 20:08
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 2010-11-05 DIARYONE
 

@@ -2,9 +2,9 @@
 layout: post
 title: 一个上午都感觉昏昏沉沉
 date: 2008-09-13 13:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 中秋假期，一直没有什么计划观念的我依旧如常。
 上午姐姐打来电话，说过去一起吃午饭，不过感觉整个人晕晕的不想动，于是拖到了下午过去。

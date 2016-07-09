@@ -2,9 +2,9 @@
 layout: post
 title: Sealed with a kiss
 date: 2008-07-12 23:55
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 以吻封缄―Sealed with a kiss
 

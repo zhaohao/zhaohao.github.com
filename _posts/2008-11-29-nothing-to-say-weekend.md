@@ -2,9 +2,9 @@
 layout: post
 title: 又是无言的周末
 date: 2008-11-29 12:36
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 正中午，广州，裹在厚厚的棉被里面居然还双脚冰凉。
 

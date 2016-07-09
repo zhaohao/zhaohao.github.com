@@ -4,7 +4,7 @@ title: 夜空守望者－为什么考研？
 date: 2006-10-11 23:00
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 猛然之间，真的就是考研倒计时100天了，你真的做好准备了吗？
 惶恐的感觉一直缠绕在心中，听着广播的声音，这种感觉变得更加强烈

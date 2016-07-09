@@ -2,9 +2,9 @@
 layout: post
 title: The answer is blowing in the wind
 date: 2009-03-21 10:59
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 How many roads must a man walk down, Before they call him a man?
 

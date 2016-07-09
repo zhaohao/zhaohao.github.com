@@ -2,9 +2,9 @@
 layout: post
 title: The last day of July
 date: 2008-07-31 22:32
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 想起去年的这个月正式结束了学生时代的生活，恍然之间一年时光已经逝去。
 

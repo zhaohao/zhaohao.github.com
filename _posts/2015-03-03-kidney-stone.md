@@ -2,9 +2,9 @@
 layout: post
 title: 半夜又不期而至的疼
 date: 2015-03-03 00:04
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="float: left; color: #059494; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px;"><b>结</b></span>石毫无预兆的又移动了位置，伴随着的那种揪揪的痛和莫名的反胃恶心的感觉狂风般扑来。还隐隐的发冷，自己去倒了开水，喝下去仍不解决问题，到卫生间开了热水淋浴冲了很久很久才缓过劲来，稍微不那么难受。
 这么一段时间，痛了好多次了，但从另一方面讲，每痛一次，离彻底摆脱这块石头就又向前一步，因为根据上次的检查结果，那次持续一天一夜难熬的痛苦的结果是这块石头，它离开了本最难离开的位置往外移出了一步。后面这么几次痛都明显感觉到位置的变化。这次应该会解脱！祝愿自己！

@@ -2,9 +2,9 @@
 layout: post
 title: Happy Lunar Birthday To Myself
 date: 2007-11-20 20:35
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 你的生日让我想起，一个很久以前的朋友，那是一个寒冷的冬天，他流浪在街头 我以为他要祈求什么，他却总是摇摇头，他说今天是他的生日，却没人祝他生日快乐 
 生日快乐，祝你生日快乐，握着我的手，跟我一起唱这首生日快乐歌。生日快乐，祝你生日快乐，有生的日子天天快乐，别在意生日怎么过 

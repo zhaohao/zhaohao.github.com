@@ -2,9 +2,9 @@
 layout: post
 title: 雨人
 date: 2012-06-26 22:26
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 好像就从那一个夜晚开始
 

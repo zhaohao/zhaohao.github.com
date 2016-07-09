@@ -4,7 +4,7 @@ title: 想了想一些事情
 date: 2008-01-08 08:54
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 今天早上没能准时起来，又往后推迟了许久，希望明天不会这样了。
 

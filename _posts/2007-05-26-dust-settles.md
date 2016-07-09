@@ -4,7 +4,7 @@ title: 尘埃落定
 date: 2007-05-26 01:04
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 天气很热！
 现在又已经是晚上一点钟了，可是仍不想去睡觉。

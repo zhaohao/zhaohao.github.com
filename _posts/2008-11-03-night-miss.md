@@ -2,9 +2,9 @@
 layout: post
 title: 是不是这样的夜晚你才会这样的想起我
 date: 2008-11-03 22:17
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 结束忙碌的一天，换回熟悉的寂寞，懒懒的躺在沙发上，像母亲温暖臂弯。
 转到昨天的频道让声音驱走寂静，总是同样的剧情，同样的对白，同样的空白。

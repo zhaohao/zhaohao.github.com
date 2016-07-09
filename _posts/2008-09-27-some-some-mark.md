@@ -2,9 +2,9 @@
 layout: post
 title: 零碎的记录
 date: 2008-09-27 21:00
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 暂时就没什么机会从手机上往博客发东西了，因为移动的原因，因为自己对号码的偏执，所以终于要放弃这个号码了，当然，最舍不得的就是这个号码上的wap包月了，可是有改变就要有代价，就和生活一样，选择什么，取舍什么只能自己去判断去抉择了。
 

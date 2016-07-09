@@ -2,9 +2,9 @@
 layout: post
 title: Google在兲朝被GFW折腾的奄奄一息
 date: 2011-05-23 12:55
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>

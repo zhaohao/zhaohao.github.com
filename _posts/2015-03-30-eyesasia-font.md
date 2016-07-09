@@ -2,11 +2,12 @@
 layout: post
 title: EyesAsia - 地图字体
 date: 2015-03-30 13:28
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 EyesAsia是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。点击 <a title="EyesAsia字体" href="https://github.com/HaoyunS/EyesAsia" target="_blank">官方链接</a>
+
 <table>
 <thead>
 <tr>

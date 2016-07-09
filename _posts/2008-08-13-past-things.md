@@ -2,9 +2,9 @@
 layout: post
 title: 跟往事干杯……
 date: 2008-08-13 23:51
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 经过了许多事，你是不是觉得累？这样的心情，我曾有过几回。
 也许是被人伤了心，也许是无人可了解，现在的你我想一定 很疲惫……

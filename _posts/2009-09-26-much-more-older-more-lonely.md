@@ -4,7 +4,7 @@ title: 《越长大越孤单》歌词
 date: 2009-09-26 21:53
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 多年以后，你回到我身边，不安全充满了你疲倦的双眼。
 看着我，也告诉我，是否依然相信童话？

@@ -2,9 +2,9 @@
 layout: post
 title: 无题之一
 date: 2008-10-29 22:36
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 一天，很快过完了。
 

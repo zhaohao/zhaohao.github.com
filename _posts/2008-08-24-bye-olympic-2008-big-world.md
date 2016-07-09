@@ -2,9 +2,9 @@
 layout: post
 title: Bye Olympic 2008&假如-世界之大
 date: 2008-08-24 22:56
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 淡淡的微笑还在嘴角，算是勉强的一点征兆，眼眶的温度在沸腾那一秒，留给年华一段刻骨线条。
 

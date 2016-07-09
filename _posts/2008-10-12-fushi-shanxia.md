@@ -2,9 +2,9 @@
 layout: post
 title: 富士山下
 date: 2008-10-12 21:59
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 拦路雨偏似雪花，饮泣的你冻吗？这风褛我给你磨到有襟花，连调了职也不怕，怎么始终牵挂，苦心选中今天想车你回家。
 

@@ -2,9 +2,9 @@
 layout: post
 title: 又是一天过去了
 date: 2015-10-09 20:45
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 匆匆的又一天。
 

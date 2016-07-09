@@ -4,7 +4,7 @@ title: 闲逛Blogger发现
 date: 2007-03-01 12:52
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <div id="msgcns!A2B21BA57C861B3E!215" class="bvMsg">
 <div>

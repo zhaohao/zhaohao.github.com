@@ -2,9 +2,9 @@
 layout: post
 title: 深夜里睡不着
 date: 2007-02-25 02:31
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 在三个地方显示的邮件
 又已经是夜里两点半了，外面还有淅淅沥沥的雨声，明天怕是又起不来了。

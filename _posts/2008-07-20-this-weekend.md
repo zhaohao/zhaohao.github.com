@@ -2,9 +2,9 @@
 layout: post
 title: This Weekend
 date: 2008-07-20 02:31
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 又一个周末，天气非常热，本打算去姐姐家的，可到了时间又不想着出门了。
 

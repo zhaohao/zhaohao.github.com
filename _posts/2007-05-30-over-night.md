@@ -4,7 +4,7 @@ title: 体验了一下通宵的感觉
 date: 2007-05-30 16:18
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 前天晚上经过了一个通宵，到早上六点才睡觉。也才知道原来无点半的时候天已经大亮了。
 

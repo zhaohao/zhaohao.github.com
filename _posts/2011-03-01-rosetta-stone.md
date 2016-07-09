@@ -2,9 +2,9 @@
 layout: post
 title: Rosetta.Stone 如师通
 date: 2011-03-01 21:18
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 如师通.(Rosetta.Stone).v3.4.5.英语.(美国).1.2.3.4.5.级.(Win32.云端版)
 

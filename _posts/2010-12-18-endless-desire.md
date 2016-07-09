@@ -4,7 +4,7 @@ title: 欲无止境
 date: 2010-12-18 10:56
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 终日奔波只为饥，方才一饱便思衣。衣食两般皆具足，又想娇容美貌妻。
 娶得美妻生下子，恨无田地少根基。买到田园多广阔，出入无船少马骑。

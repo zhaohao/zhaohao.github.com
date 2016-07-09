@@ -2,9 +2,9 @@
 layout: post
 title: 假期过完了……
 date: 2009-05-03 22:22
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 几天很快过去了……
 

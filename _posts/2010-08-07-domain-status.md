@@ -4,7 +4,7 @@ title: 国际域名状态
 date: 2010-08-07 12:25
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 1、.com.net国际域名几种状态
 <br />&lt;Active&gt; 正常状态
@@ -45,4 +45,6 @@ categories: [Weblog]
 <br />&lt;Client Lock&gt;The domain cannot be transferred, renewed, deleted, or updated.An update command may be used to change the status value. Hierarchical and associated objects cannot not be added or removed from the domain object. 
 <br />用户申请锁定，不能转移、不能删除、不能更改。如果要更改信息，必须先更改这个状态
 <br />&lt;Inactive&gt;
-<br />域名没有解析，不能正常使用。一般是由于域名的dns没有填写，或填写不完整造成的，最少需要填写2个dns才能正常解析。<div>http://haozhao.blogspot.com/</div>
+<br />域名没有解析，不能正常使用。一般是由于域名的dns没有填写，或填写不完整造成的，最少需要填写2个dns才能正常解析。
+
+<div>http://haozhao.blogspot.com/</div>

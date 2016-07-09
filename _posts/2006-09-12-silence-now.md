@@ -2,9 +2,9 @@
 layout: post
 title: 从此沉默于此。。。
 date: 2006-09-12 00:07
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 1、生命是幻觉。可是我需要你在。
 2、快乐可以有人分享。而痛苦却没有声音。

@@ -2,9 +2,9 @@
 layout: post
 title: Unrequited Love
 date: 2011-05-30 21:29
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 Birthday_Resistance.mp3
 

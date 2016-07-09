@@ -4,7 +4,7 @@ title: 一再的无路可走，所以一再的前行
 date: 2007-05-05 03:37
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 明白一些东西的时候  却是最不需要明白的时候
 想起一些东西的时候  却是最不需要想起的时候

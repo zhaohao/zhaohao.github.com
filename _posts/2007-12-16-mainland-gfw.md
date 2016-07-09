@@ -4,7 +4,7 @@ title: 在MainLand这个地方被wall挡了
 date: 2007-12-16 19:01
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 本来还庆幸blogger的自定义域还能够正常使用，但是在十二月的某天，这种庆幸彻底化为无奈了。
 

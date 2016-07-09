@@ -4,7 +4,7 @@ title: 關于幾米（一）
 date: 2008-03-12 21:50
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 :: 关于幾米 ::
 

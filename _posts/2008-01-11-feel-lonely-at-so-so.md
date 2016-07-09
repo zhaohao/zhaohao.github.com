@@ -4,7 +4,7 @@ title: 感到有点孤单和无奈
 date: 2008-01-11 09:30
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 昨天晚上在QQ上遇见姐姐，问关于过年怎么安排的事情，不知道该怎样回答，似乎只是想一个人躲起来。
 

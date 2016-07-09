@@ -2,9 +2,9 @@
 layout: post
 title: 最后的折腾系统
 date: 2015-09-21 01:37
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 旧的笔记本前面脑袋一热装回了XP，虽然看起来CPU、内存都占用相当相当的少，但或许是SSD加大内存的台式机用惯了，笔记本XP总是给人卡卡的感觉，比印象中以前它装Win7、Win8、Win8.1、Win10预览版都卡。
 
@@ -21,4 +21,3 @@ categories: [Weblog]
 后面就是一路下一步，但相比原版过程有些诡异，又是解包又是合并，助手里还有PE工具，感觉像在解包加打包安装镜像，后面耗费挺长时间才到原版的安装步骤，整体下来安装时间长了不止一倍。
 
 效果还好，进系统已经正常激活了。腾讯的全家桶还不算多，就QQ、视频、管家什么的，加上浏览器的主页，全部清掉一个不留。
-

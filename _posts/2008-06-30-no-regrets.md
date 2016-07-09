@@ -4,7 +4,7 @@ title: 爱乐团-死而无憾
 date: 2008-06-30 21:38
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 岁月在蒸发，蝴蝶依旧恋着花。
 

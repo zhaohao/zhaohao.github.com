@@ -2,11 +2,11 @@
 layout: post
 title: 无所不用其极
 date: 2014-11-07 16:23
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
-<a href="/wp-content/uploads/2014/11/gate.jpg"><img class="alignnone size-full wp-image-811" src="/wp-content/uploads/2014/11/gate.jpg" alt="gate" width="700" height="467" /></a>
+<a href="/Resource/gate.jpg"><img class="alignnone size-full wp-image-811" src="/Resource/gate.jpg" alt="gate" width="700" height="467" /></a>
 
 外面的世界很精彩，这里的世界很无奈……
 

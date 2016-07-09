@@ -4,7 +4,7 @@ title: 一周又一周……
 date: 2007-09-23 23:06
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 周六跑断腿终于把网费给补上了，又可以挂在网上无所事事了。
 

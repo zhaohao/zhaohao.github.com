@@ -2,9 +2,9 @@
 layout: post
 title: 我真的不知道该如何选择
 date: 2008-06-30 01:42
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 心里仍然乱七八糟，十一点多点躺到床上，现在已经一点半了，感到好累。
 

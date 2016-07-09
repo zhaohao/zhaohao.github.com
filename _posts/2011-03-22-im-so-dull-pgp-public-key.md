@@ -4,9 +4,10 @@ title: I'm so dull PGP Public key
 date: 2011-03-22 17:40
 author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 <span style="font-family: consolas,Lucida console;">
+
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----<br />
 Version: PGP Desktop 9.9.0 (Build 397)<br />
@@ -40,4 +41,5 @@ lQbb2SqV<br />
 =u5wM<br />
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+
 </span>

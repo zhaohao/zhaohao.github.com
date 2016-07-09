@@ -2,17 +2,18 @@
 layout: post
 title: 那些年拿过的那些域名
 date: 2014-10-30 16:20
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
-<a href="/wp-content/uploads/2014/10/cogs.jpg"><img class="alignnone size-full wp-image-806" src="/wp-content/uploads/2014/10/cogs.jpg" alt="cogs" width="700" height="467" /></a>
+<a href="/Resource/cogs.jpg"><img class="alignnone size-full wp-image-806" src="/Resource/cogs.jpg" alt="cogs" width="700" height="467" /></a>
 
 2007-??-??，cn域名对个人开放，并且特价促销1元一个，注册了bluehao.cn，后面什么的都忘记了，好像还尝试了提交备案信息，当时还是很简单的自主网上提交备案信息，完全不似如今的复杂。
 
 <hr />
 
 2007-03-06，二零零七年三月，第一个国际域名，其实是完全不能自主管理的域名Office Live Domain，但是从此开始使用上了信用卡美元账户，也从此走上了不归路。
+
 <blockquote>申请到了office live服务的帐号 Office Live Domain
 
 用了美国的地址邮编电话申请到了office live服务的帐号，那张废品龙卡终于有一点点用处了，当作身份验证码了，不过不知道所说的扣去一美元然后再返还的事情有没有发生。 由此申请到了我的第一个国际域名haovmail.com（一片空白，现在还懒得去修改），以及免费的500兆主机空间以及每月10G的网络带宽，，对于免费的服务来说真的还不错。 还有就是可以在haovmail.com下注册25个邮箱帐号，可以自恋的想要什么用户名用什么用户名了，－－</blockquote>

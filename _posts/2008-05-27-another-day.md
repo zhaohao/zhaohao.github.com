@@ -2,9 +2,9 @@
 layout: post
 title: 今天没有上班
 date: 2008-05-27 20:43
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 调休，早上睡到九点半才起床，伸手开了电脑。
 

@@ -2,9 +2,9 @@
 layout: post
 title: 手机MSN和手机QQ去广告
 date: 2009-04-28 21:19
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 无聊而已。Nokia 5700 S60V3，其它没用过。
 

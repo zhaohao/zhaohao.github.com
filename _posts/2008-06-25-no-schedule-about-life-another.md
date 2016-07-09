@@ -2,9 +2,9 @@
 layout: post
 title: 缺乏对人生的规划
 date: 2008-06-25 00:47
-author: stardust
+author: zhaohao
 comments: true
-categories: [Weblog]
+categories: [weblog]
 ---
 对未来感到一片模糊，没有设想，也没有准备，所以会迷惘，会自责，会孤独和忧伤！
 
