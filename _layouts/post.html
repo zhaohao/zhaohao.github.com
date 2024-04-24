@@ -73,7 +73,14 @@ $(function(){
 
 <script>
     jQuery(function(){
-    jQuery('#qrcode').qrcode("{{ site.url }}{{ page.url }}");
+    jQuery('#qrcode').qrcode("{{ site.url }}{{ page.url }}", {
+    text: "{{ site.url }}{{ page.url }}",
+    width: 256,
+    height: 256,
+    colorDark : "#1f1f1f",
+    colorLight : "#eeeeee",
+    correctLevel : QRCode.CorrectLevel.H
+});
 })
 </script>
 <div id="qrcode"></div>
