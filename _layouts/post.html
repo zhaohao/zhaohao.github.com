@@ -71,11 +71,8 @@ $(function(){
 })
 </script>
 
-
-
 <script>
     jQuery(function(){
-
       
     jQuery('#qrcode').qrcode({
     render: "canvas",
@@ -85,8 +82,7 @@ $(function(){
     background: "#FFF",
     text: "{{ site.url }}{{ page.url }}"
     });
-
-   
+  
     })
 </script>
 <div id="qrcode"></div>
