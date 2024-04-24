@@ -79,6 +79,8 @@ $(function(){
       
     jQuery('#qrcode').qrcode({
     render: "canvas",
+    width: 200,
+    height: 200,
     foreground: "#337778",
     background: "#FFF",
     text: "{{ site.url }}{{ page.url }}"
