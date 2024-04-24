@@ -73,7 +73,7 @@ $(function(){
 
 <script>
     jQuery(function(){
-    jQuery('#qrcode').qrcode({{ site.url }});
+    jQuery('#qrcode').qrcode("{{ site.url }}{{ page.next.url }}");
 })
 </script>
-
+<div id="qrcode"></div>
