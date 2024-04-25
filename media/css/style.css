@@ -64,7 +64,7 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 	background-image: url("/media/template/v2-4c8fa67eb50abcc8d69b55196be6b7ed_r.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
