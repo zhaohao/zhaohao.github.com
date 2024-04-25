@@ -4,7 +4,7 @@ layout: default
 <section class="post">
 {{ content }}
 </section>
-<div id="qrcode"></div>
+<div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 11px 11px; float: left; padding: 20px; margin-top:20px;" ></div>
 <section class="meta">
 <span class="author">
   <a href="{{ site.url }}">{{ site.author }}</a>
@@ -76,11 +76,11 @@ $(function(){
     jQuery(function(){
       
     jQuery('#qrcode').qrcode({
-    render: "canvas",
-    width: 200,
-    height: 200,
+    render: "table",
+    width: 160,
+    height: 160,
     foreground: "#337778",
-    background: "#FFF",
+    background: "#eee",
     text: "{{ site.url }}{{ page.url }}"
     });
   
