@@ -73,7 +73,7 @@ body{
 	}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#dd0000;text-decoration:none;}
-a:hover{color:#333333;text-decoration:underline;}
+a:hover{color:#00a8a8;text-decoration:underline;}
 hr{border-bottom: 1px solid #cccccc;}
 p{padding:.5em 0; line-height:34px;}
 li{padding:.2em 0;}
@@ -116,7 +116,7 @@ blockquote p{margin:0;padding:.5em 0;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:"Electrolize",'Codystar',Verdana,sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12.3em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
-nav a:hover{background-color:#D64A38;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+nav a:hover{background-color:#00a8a8;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
 h1{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
 h2{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;}
