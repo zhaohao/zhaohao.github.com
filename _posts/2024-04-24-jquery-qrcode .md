@@ -31,7 +31,7 @@ categories: [weblog]
 
 ```
 
-后面就可以在需要的页面创建一个 DOM 包含生成QR码。可以在里面根据需要设置一下显示的样式。
+后面就可以在需要的页面里添加上生成的QR码。可以在里面根据需要设置一下显示的样式。
 ```html
 <div id="qrcode" style=" align-self: start; margin:0px 10px 10px 0px; padding:20px; box-shadow: inset #2c7f7f 0 0 15px 10px;" ></div>
 ```
