@@ -78,15 +78,6 @@ body {
 }
 
 
-
-
-* {
-	padding: 0;
-	margin: 0;
-	border: none;
-	outline: none;
-}
-
 a {
 	color: #dd0000;
 	text-decoration: none;
@@ -138,7 +129,7 @@ blockquote p {
 	padding: .5em 0;
 }
 
-@media only screen and (min-width:1000px) {
+@media only screen and (min-width:768px) {
 
 	#container {
 		width: 600px;
@@ -172,7 +163,7 @@ blockquote p {
 
 }
 
-@media only screen and (max-width:999px) {
+@media only screen and (max-width:768px) {
 
 	#container {
 		display: block;
