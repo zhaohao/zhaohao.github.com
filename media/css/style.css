@@ -194,9 +194,8 @@ blockquote p {
 		float: inline-end;
 		margin-bottom: 2em;
 		width: 9em;
-		text-align: center;
-		background-color: #c4dede;
-		border-radius: 15px;
+		text-align: right;
+		background-color: #f4f4f4;
 	}
 
 }
