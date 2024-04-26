@@ -1,5 +1,5 @@
 # Build settings
-permalink: /:title.html
+permalink: /:year-:month-:day-:title.html
 url: https://hao.zhao.im
 author: zhaohao
 gems: [jekyll-paginate]
