@@ -88,10 +88,10 @@ blockquote p{margin:0;padding:.5em 0;}
   display:block;
   padding:0 2em;
   background: url("") repeat;
- -moz-border-radius:10px;
- -webkit-border-radius:10px;
-  border-radius: 10px;
-  background: rgba(255,255,255,0.7);
+ -moz-border-radius:5px;
+ -webkit-border-radius:5px;
+  border-radius: 5px;
+  background: rgba(255,255,255,0.9);
   border: 5px solid {color:#eee};
   box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
   margin: 20px auto;
