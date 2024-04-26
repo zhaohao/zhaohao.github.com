@@ -142,19 +142,12 @@ blockquote p {
 
 	#container {
 		width: 600px;
-		margin: 2em auto;
 		display: block;
+		margin: 2em auto;
 		padding: 0 2em;
 		background: url("") repeat;
-		-moz-border-radius: 5px;
-		-webkit-border-radius: 5px;
-		border-radius: 5px;
 		background: rgba(255, 255, 255, 0.9);
-		border: 5px solid #eee;
 		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
-		margin: 20px auto;
-		padding: 20px 50px;
-		width: 600px;
 		z-index: 1;
 	}
 
@@ -185,10 +178,10 @@ blockquote p {
 		display: block;
 		background: url("") repeat;
 		background: rgba(255, 255, 255, 0.9);
-		border: 2px solid #eee;
-		margin: 10px auto;
-		padding: 10px 10px;
-		width: 95%;
+		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
+		margin: 2em auto;
+		padding: 0 2em;
+		width: 90%;
 		z-index: 1;
 	}
 
@@ -205,7 +198,7 @@ blockquote p {
 		display: block;
 		border-top: 1px dashed #CCC;
 		height: 200px;
-		width: 95%;
+		width: 90%;
 		background: url("/media/template/zoo.png") left no-repeat;
 		background-size: 80%;
 	}
