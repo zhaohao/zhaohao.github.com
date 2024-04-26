@@ -167,6 +167,15 @@ blockquote p {
 		width: 9em;
 		text-align: right;
 	}
+	footer {
+		display: block;
+		border-top: 1px dashed #CCC;
+		height: 200px;
+		width: 600px;
+		background: url("/media/template/zoo.png") left no-repeat;
+		background-size: 80%;
+	}
+
 
 }
 
@@ -175,15 +184,11 @@ blockquote p {
 	#container {
 		display: block;
 		background: url("") repeat;
-		-moz-border-radius: 5px;
-		-webkit-border-radius: 5px;
-		border-radius: 5px;
 		background: rgba(255, 255, 255, 0.9);
-		border: 5px solid #eee;
-		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
+		border: 2px solid #eee;
 		margin: 10px auto;
-		padding: 10px 20px;
-		width: 90%;
+		padding: 10px 10px;
+		width: 95%;
 		z-index: 1;
 	}
 
@@ -192,10 +197,17 @@ blockquote p {
 		font-size: 1.1em;
 		text-transform: uppercase;
 		float: inline-end;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 		width: 9em;
 		text-align: right;
-		background-color: #f4f4f4;
+	}
+		footer {
+		display: block;
+		border-top: 1px dashed #CCC;
+		height: 200px;
+		width: 95%;
+		background: url("/media/template/zoo.png") left no-repeat;
+		background-size: 80%;
 	}
 
 }
@@ -335,14 +347,6 @@ iframe {
 	line-height: 1.6;
 }
 
-footer {
-	display: block;
-	border-top: 1px dashed #CCC;
-	height: 200px;
-	width: 600px;
-	background: url("/media/template/zoo.png") left no-repeat;
-	background-size: 80%;
-}
 
 footer small {
 	font-size: 13px;
