@@ -18,6 +18,24 @@ $('nav a').eq(1).addClass("activepage");
 <source src="http://hao.zhao.im/media/Audio/WillYouBeThere.mp3" type="audio/mp3">
 HTML5 audio not supported!
 </audio>
+
+In Our Darkest Hour    
+In My Deepest Despair    
+Will You Still Care?    
+Will You Be There?    
+In My Trials   
+And My Tribulations   
+Through Our Doubts    
+And Frustrations    
+In My Violence    
+In My Turbulence    
+Through My Fear And My Confessions    
+In My Anguish And My Pain    
+Through My Joy And My Sorrow    
+In The Promise Of Another Tomorrow    
+I'll Never Let You Part    
+For You're Always In My Heart.
+*****
 I stand alone in the darkness    
 The winter of my life came so fast    
 Memories go back to childhood    
