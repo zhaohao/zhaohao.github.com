@@ -266,6 +266,13 @@ nav a:hover {
 	transition: all .5s linear;
 }
 
+ .activepage {
+    	background-color: #00a8a8;
+	text-decoration: none;
+	color: #f9f9f9;
+	transition: all .5s linear;
+}
+
 .post {
 	padding: .5em 0em;
 }
