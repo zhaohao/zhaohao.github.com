@@ -2,6 +2,11 @@
 title: Hao's Weblog²
 layout: page
 ---
+<script>
+  $(function(){
+  $('nav a').eq(0).addClass("activepage");
+  })
+  </script>
 <ul class="listing">
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
