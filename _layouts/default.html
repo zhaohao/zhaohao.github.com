@@ -12,15 +12,6 @@
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/media/js/jquery.qrcode.min.js"></script>
     <script type="text/javascript" src="https://js.users.51.la/20013723.js"></script>
-    <script>
-            const currentUrl = window.location.href; // 获取当前页面的URL
-            const navLinks = document.querySelectorAll('nav a'); // 获取所有导航链接
-            navLinks.forEach(link => {
-              if (link.href === currentUrl) {
-                link.classList.add('activepage'); // 添加active类名
-              }
-            });
-    </script>
   </head>
   <body>
     <div id="container">
@@ -29,13 +20,13 @@
         <h1>{{ page.title }}</h1>
         </header>
         <nav>
-        <span><a title="home page" href="https://hao.zhao.im/">Home</a></span>
-        <span><a title="about" href="https://hao.zhao.im/about/">About</a></span>
-        <span><a title="guestbook" href="https://hao.zhao.im/guestbook/">Guestbook</a></span>
-        <span><a title="categories" href="https://hao.zhao.im/categories/">Categories</a></span>
-        <span><a title="tags" href="https://hao.zhao.im/tags/">Tags</a></span>
-        <span><a title="links" href="https://hao.zhao.im/links/">Links</a></span>
-        <span><a title="subscribe by RSS" href="https://hao.zhao.im/feed/">Subscribe</a></span>
+        <span><a title="home page" class="" href="/">Home</a></span>
+        <span><a title="about" class="" href="/about/">About</a></span>
+        <span><a title="guestbook" class="" href="/guestbook/">Guestbook</a></span>
+        <span><a title="categories" class="" href="/categories/">Categories</a></span>
+        <span><a title="tags" class="" href="/tags/">Tags</a></span>
+        <span><a title="links" class="" href="/links/">Links</a></span>
+        <span><a title="subscribe by RSS" class="" href="/feed/">Subscribe</a></span>
         </nav>
         <article class="content">
         {{ content }}
