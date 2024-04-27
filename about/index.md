@@ -23,8 +23,7 @@ In Our Darkest Hour
 In My Deepest Despair    
 Will You Still Care?    
 Will You Be There?    
-In My Trials   
-And My Tribulations   
+In My Trials And My Tribulations   
 Through Our Doubts    
 And Frustrations    
 In My Violence    
@@ -34,8 +33,10 @@ In My Anguish And My Pain
 Through My Joy And My Sorrow    
 In The Promise Of Another Tomorrow    
 I'll Never Let You Part    
-For You're Always In My Heart.
-*****
+For You're Always In My Heart.    
+
+*****    
+     
 I stand alone in the darkness    
 The winter of my life came so fast    
 Memories go back to childhood    
