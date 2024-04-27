@@ -8,15 +8,16 @@ $(function(){
 $('nav a').eq(1).addClass("activepage");
 })
 </script>
-<audio controls>
-<source src="http://hao.zhao.im/media/Audio/MySoul.mp3" type="audio/mp3">
-HTML5 audio not supported!
-</audio>
+
 <p>你嘴角微翘，我看见阳光满地……</p>
 <p>你回眸一望，我看见晴空万里……</p>
 
 <p>Email:hao＠zhao.im</p>
 ***** 
+<audio controls>
+<source src="http://hao.zhao.im/media/Audio/MySoul.mp3" type="audio/mp3">
+HTML5 audio not supported!
+</audio>
 I stand alone in the darkness    
 The winter of my life came so fast    
 Memories go back to childhood    
