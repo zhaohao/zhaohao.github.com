@@ -2,6 +2,11 @@
 title: Categories
 layout: page
 ---
+<script>
+$(function(){
+$('nav a').eq(3).addClass("activepage");
+})
+</script>
 <ul class="listing">
 {% for cat in site.categories %}
   <li class="listing-seperator" id="{{ cat[0] }}">{{ cat[0] }}</li>

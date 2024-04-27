@@ -3,7 +3,12 @@ title: About me
 layout: page
 comments: yes
 ---
-<audio controls="controls" autoplay="autoplay" loop="loop">
+<script>
+$(function(){
+$('nav a').eq(1).addClass("activepage");
+})
+</script>
+<audio controls="controls" autoplay="none" loop="loop">
 <source src="http://hao.zhao.im/media/Audio/MySoul.mp3" type="audio/mp3">
 HTML5 audio not supported!
 </audio>
