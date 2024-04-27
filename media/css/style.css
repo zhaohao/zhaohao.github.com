@@ -104,6 +104,7 @@ li {
 ol,
 ul {
 	list-style-position: inside;
+	padding-left: .5em;
 }
 
 ol ul,
