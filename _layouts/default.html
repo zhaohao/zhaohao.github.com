@@ -12,6 +12,15 @@
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/media/js/jquery.qrcode.min.js"></script>
     <script type="text/javascript" src="https://js.users.51.la/20013723.js"></script>
+    <script>
+            const currentUrl = window.location.href; // 获取当前页面的URL
+            const navLinks = document.querySelectorAll('nav a'); // 获取所有导航链接
+            navLinks.forEach(link => {
+              if (link.href === currentUrl) {
+                link.classList.add('activepage'); // 添加active类名
+              }
+            });
+    </script>
   </head>
   <body>
     <div id="container">
