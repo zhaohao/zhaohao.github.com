@@ -136,7 +136,7 @@ blockquote p {
 		width: 600px;
 		display: block;
 		margin: 2em auto;
-		padding: 0 2em;
+		padding: 0 1.5em;
 		background: url("") repeat;
 		background: rgba(255, 255, 255, 0.9);
 		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
@@ -172,7 +172,7 @@ blockquote p {
 		background: rgba(255, 255, 255, 0.9);
 		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
 		margin: 2em auto;
-		padding: 0 2em;
+		padding: 0 1.5em;
 		width: 90%;
 		z-index: 1;
 	}
