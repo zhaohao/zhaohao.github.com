@@ -3,6 +3,10 @@ title: links
 layout: page
 comments: yes
 ---
-
-暂无
+<script>
+$(function(){
+$('nav a').eq(5).addClass("activepage");
+})
+</script>
+<p>暂无</p>>
 
