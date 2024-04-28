@@ -15,7 +15,7 @@ $('nav a').eq(1).addClass("activepage");
 <p>Email:hao＠zhao.im</p>
 ***** 
 <audio controls>
-<source src="http://hao.zhao.im/media/Audio/WillYouBeThere.mp3" type="audio/mp3">
+<source src="https://hao.zhao.im/media/Audio/WillYouBeThere.mp3" type="audio/mp3">
 HTML5 audio not supported!
 </audio>
 
@@ -36,7 +36,12 @@ I'll Never Let You Part
 For You're Always In My Heart.    
 
 *****    
-     
+
+<audio controls>
+<source src="https://hao.zhao.im/media/Audio/Stratovarius-Forever-96k.mp3" type="audio/mp3">
+HTML5 audio not supported!
+</audio>    
+
 I stand alone in the darkness    
 The winter of my life came so fast    
 Memories go back to childhood    
