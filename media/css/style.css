@@ -260,7 +260,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #00a8a8;
+	background-color: #e84f4f;
 	text-decoration: none;
 	color: #f9f9f9;
 	transition: all .5s linear;
