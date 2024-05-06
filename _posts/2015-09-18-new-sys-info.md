@@ -5,11 +5,12 @@ date: 2015-09-18 11:54
 author: zhaohao
 comments: true
 categories: [weblog]
+tags: EE
 ---
 换回了Windows8.1，相比Win10，Win8.1传统桌面的地方就是传统桌面，该是Metro效果的就是Metro界面，二者较为独立互不影响，自己感觉显得更为清爽简洁些。功能方面VirtualBox虚拟机兼容性也好。
 </hr>
 
-<pre>
+```console
 Microsoft Windows [版本 6.3.9600]
 (c) 2013 Microsoft Corporation。保留所有权利。
 
@@ -46,4 +47,4 @@ Windows 目录:     C:\Windows
 修补程序:         安装了 276 个修补程序                                                               
 网卡:             安装了 3 个 NIC
 Hyper-V 要求:     已检测到虚拟机监控程序。将不显示 Hyper-V 所需的功能
-</pre>
+```
