@@ -59,7 +59,7 @@
 	width: 100%;
 	height: 100%;
 	z-index: -1;
-	background: url("/media/template/overlay.png") repeat;
+	background: url("/media/template/zhao-overlay-00.png") repeat;
 }
 
 
@@ -68,7 +68,7 @@ body {
 	word-spacing: 1px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("/media/template/v2-4c8fa67eb50abcc8d69b55196be6b7ed_r.jpg");
+	background-image: url("/media/template/bgp05.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -118,17 +118,40 @@ blockquote {
 	display: block;
 	text-align: justify;
 	border-left: 4px solid #1E8BAB;
-}
-
-blockquote {
 	margin: 1em 0em;
-	padding-left: 1.5em;
+	padding: 1em 1.5em;
+	background-color: #dee9e8;
+	font-style: italic;
 }
 
 blockquote p {
 	margin: 0;
 	padding: .5em 0;
 }
+
+code, kbd, pre, samp {
+  font-family: 'DejaVu Sans Mono', Consolas, 'lxgw wenkai screen','Microsoft Yahei', monospace, sans-serif;
+  font-size: 0.875em;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  /* background: #000000;
+  color: #eee;
+  padding: 0 .5em;
+  border-radius: .5em;*/
+}
+
+ pre {
+  
+  padding:24px 24px;
+  max-width: 60rem;
+  /* margin-left: auto; */
+  margin-right: auto;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+
 
 @media only screen and (width>=900px) {
 
@@ -138,8 +161,12 @@ blockquote p {
 		display: block;
 		margin: 2em auto;
 		padding: 0 1.5em;
-		background: url("") repeat;
-		background: rgba(255, 255, 255, 0.9);
+		background: rgba(255, 255, 255, 0.5);
+		-webkit-backdrop-filter: blur(20px);
+		-moz-backdrop-filter: blur(20px);
+		backdrop-filter: blur(20px);
+		-webkit-box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
+		-moz-box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
 		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
 		z-index: 1;
 	}
@@ -169,8 +196,12 @@ blockquote p {
 
 	#container {
 		display: block;
-		background: url("") repeat;
-		background: rgba(255, 255, 255, 0.9);
+		background: rgba(255, 255, 255, 0.5);
+		-webkit-backdrop-filter: blur(20px);
+		-moz-backdrop-filter: blur(20px);
+		backdrop-filter: blur(20px);
+		-webkit-box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
+		-moz-box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
 		box-shadow: rgba(220, 230, 240, 0.65) 0px 0px 80px 20px;
 		margin: 2em auto;
 		padding: 0 1.5em;
@@ -303,29 +334,6 @@ h4 {
 	color: #333;
 }
 
-pre,
-code {
-	font-family: Menlo, "Andale Mono", Consolas, "Courier New", Monaco, monospace;
-	font-size: 13px;
-}
-
-pre {
-	background-color: #BDE1CD;
-	border: 1px solid #A7D2B9;
-	font-size: 13px;
-	line-height: 19px;
-	padding: 6px 10px;
-	border-radius: 3px;
-	overflow: scroll;
-}
-
-p>code {
-	margin: 0 2px;
-	padding: 0px 5px;
-	border: 1px solid #A7D2B9;
-	background-color: #BDE1CD;
-	border-radius: 3px;
-}
 
 
 

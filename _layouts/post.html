@@ -1,13 +1,25 @@
 ---
 layout: default
 ---
-<div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:2.5em 1em .5em 1em;" ></div>
 <section class="post">
 {{ content }}
+<table border="0">
+<tr>
+  <td>
+  <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:.5em 1em .5em 0;" ></div>
+  </td>
+  
+  <td>
+    <span class="">日志编译时间: 【{{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}】</span>
+    <br>
+    <span class="">日志固定链接: <a href="{{ site.url }}{{ page.url }}">【{{ site.url }}{{ page.url }}】</a></span>
+  </td>
+</tr>
+</table>
 </section>
 <section class="meta">
 <span class="author">
-  <a href="{{ site.url }}">{{ site.author }}</a>
+  <a href="{{ site.url }}/index.html">{{ site.author }}</a>
 </span>
 <span class="time">
   /
@@ -19,7 +31,7 @@ layout: default
 <span class="categories">
   Published in categories
   {% for cat in page.categories %}
-  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  <a href="/categories/index.html#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}
@@ -27,7 +39,7 @@ layout: default
 <span class="tags">
   tagged with 
   {% for tag in page.tags %}
-  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  <a href="/tags/index.html#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
   {% endfor %}
 </span>
 {% endif %}

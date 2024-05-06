@@ -67,3 +67,16 @@ I'm the wind in the trees
 Would you wait for me forever?    
 Would you wait for me forever?    
 Will you wait for me forever?    
+<table border="0">
+<tr>
+  <td>
+  <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:.5em 1em .5em 0;" ></div>
+  </td>
+  
+  <td>
+    <span class="">页面编译时间: {{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</span>
+    <br>
+    <span class="">页面固定链接: <a href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a></span>
+  </td>
+</tr>
+</table>

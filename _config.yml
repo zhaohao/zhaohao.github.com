@@ -1,8 +1,8 @@
 # Build settings
-permalink: /:year-:month-:day-:title.html
+permalink: /weblog/:year-:month-:day-:title.html
 url: https://hao.zhao.im
 author: zhaohao
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 paginate: 50

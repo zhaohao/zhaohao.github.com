@@ -8,15 +8,18 @@ categories: [weblog]
 ---
 • 安装 nginx
 
-<pre>$ sudo apt-get install nginx</pre>
+```console
+$ sudo apt-get install nginx
+```
 
 这个命令将会安装nginx并且设定好所有必需的目录和基础配置。
 
-• 配置你的站点
-○ 在 <code>/etc/nginx/sites-available</code> 创建一个 <code>ghost.conf</code> 文件。
-○ 使用文本编辑器打开这个文件 (e.g. sudo nano /etc/nginx/sites-available/ghost.conf) 把以下内容复制进这个文件：
+• 配置你的站点    
+○ 在 <code>/etc/nginx/sites-available</code> 创建一个 <code>ghost.conf</code> 文件。    
+○ 使用文本编辑器打开这个文件 (e.g. sudo nano /etc/nginx/sites-available/ghost.conf) 把以下内容复制进这个文件：    
 
-<pre>server {
+```nginx
+server {
     listen 80;
     server_name example.com;
 
@@ -26,13 +29,17 @@ categories: [weblog]
         proxy_pass         http://127.0.0.1:2368;
     }
 }    
-</pre>
+```
 
-○ 将 <code>server_name</code> 的值改为你的域名。
-○ 把你的配置文件软链接到 <code>sites-enabled</code> 文件夹下:
+○ 将 <code>server_name</code> 的值改为你的域名。    
+○ 把你的配置文件软链接到 <code>sites-enabled</code> 文件夹下:    
 
-<pre>$ sudo ln -s /etc/nginx/sites-available/ghost.conf /etc/nginx/sites-enabled/ghost.conf</pre>
+```console
+$ sudo ln -s /etc/nginx/sites-available/ghost.conf /etc/nginx/sites-enabled/ghost.conf
+```
 
-○ 重启 nginx
+○ 重启 nginx    
 
-<pre>$ sudo service nginx restart</pre>
+```console
+$ sudo service nginx restart
+```
