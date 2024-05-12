@@ -213,9 +213,8 @@ code, kbd, pre, samp {
 		font-family: "Electrolize", 'Codystar', Verdana, sans-serif;
 		font-size: 1.1em;
 		text-transform: uppercase;
-		float: inline-end;
-		margin-bottom: 1em;
-		width: 9em;
+		float: right;
+		margin-top: -3em;
 		text-align: right;
 	}
 		footer {
