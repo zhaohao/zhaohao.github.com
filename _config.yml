@@ -5,4 +5,4 @@ author: zhaohao
 plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
-paginate: 50
+paginate: 100
