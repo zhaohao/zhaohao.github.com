@@ -74,9 +74,9 @@ Will you wait for me forever?
   </td>
   
   <td>
-    <span class="">日志编译时间: {{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}}</span>
+    <span class="">页面编译时间: {{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</span>
     <br>
-    <span class="">日志固定链接: <a href="{{ site.url }}{{ page.url }}">{{ page.url }}</a></span>
+    <span class="">页面固定链接: <a href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a></span>
   </td>
 </tr>
 </table>
