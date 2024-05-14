@@ -8,10 +8,10 @@ $(function(){
 $('nav a').eq(5).addClass("activepage");
 })
 </script>
-[Home](https://howardzhao.com/index.html "home page")    
-[About](https://howardzhao.com/about/index.html "about")    
-[Guestbook](https://howardzhao.com/guestbook/index.html "guestbook")    
-[Categories](https://howardzhao.com/categories/index.html "categories")    
-[Tags](https://howardzhao.com/tags/index.html "tags")    
-[Links](https://howardzhao.com/links/index.html "links")    
-[Subscribe](https://howardzhao.com/feed/index.html "subscribe by RSS")
+[Home]({{ site.url }}/index.html "home page")    
+[About]({{ site.url }}/about/index.html "about")    
+[Guestbook]({{ site.url }}/guestbook/index.html "guestbook")    
+[Categories]({{ site.url }}/categories/index.html "categories")    
+[Tags]({{ site.url }}/tags/index.html "tags")    
+[Links]({{ site.url }}/links/index.html "links")    
+[Subscribe]({{ site.url }}/feed/index.html "subscribe by RSS")
