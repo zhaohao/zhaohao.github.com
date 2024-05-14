@@ -15,7 +15,7 @@ $('nav a').eq(1).addClass("activepage");
 <p>Email:hao＠zhao.im</p>
 ***** 
 <audio controls>
-<source src="https://hao.zhao.im/media/Audio/WillYouBeThere.mp3" type="audio/mp3">
+<source src="{{ site.url }}/media/Audio/WillYouBeThere.mp3" type="audio/mp3">
 HTML5 audio not supported!
 </audio>
 
@@ -38,7 +38,7 @@ For You're Always In My Heart.
 *****    
 
 <audio controls>
-<source src="https://hao.zhao.im/media/Audio/Stratovarius-Forever-96k.mp3" type="audio/mp3">
+<source src="{{ site.url }}/media/Audio/Stratovarius-Forever-96k.mp3" type="audio/mp3">
 HTML5 audio not supported!
 </audio>    
 
@@ -74,9 +74,9 @@ Will you wait for me forever?
   </td>
   
   <td>
-    <span class="">页面编译时间: {{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</span>
+    <span class="">日志编译时间: {{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}}</span>
     <br>
-    <span class="">页面固定链接: <a href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a></span>
+    <span class="">日志固定链接: <a href="{{ site.url }}{{ page.url }}">{{ page.url }}</a></span>
   </td>
 </tr>
 </table>

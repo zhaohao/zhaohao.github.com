@@ -1,0 +1,52 @@
+  <head>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="{{ site.author }}" />
+    <title>{{ page.title }} | {{ site.author }}</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/media/css/style.css">
+    <link rel="stylesheet" href="/media/css/highlight.css">
+    <link rel="stylesheet" id="lxgwwenkai-css"
+        href="//cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css?ver=6.2.2" type="text/css"
+        media="all">
+    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/media/js/jquery.qrcode.min.js"></script>
+    <script>
+        jQuery(function () {
+
+            jQuery('#qrcode').qrcode({
+                render: "table",
+                width: 100,
+                height: 100,
+                foreground: "#337778",
+                background: "#eee",
+                text: "{{site.url}}{{ page.url }}"
+            });
+
+        })
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            $(document).keydown(function (e) {
+                var url = false;
+                if (e.which == 39 || e.which == 74) {  // Right arrow and J
+                    {% if page.previous %}
+                    url = '{{ site.url }}{{ page.previous.url }}';
+                    {% endif %}
+                }
+                else if (e.which == 37 || e.which == 75) {  // Left arrow and K
+                    {% if page.next %}
+                    url = '{{ site.url }}{{ page.next.url }}';
+                    {% endif %}
+                }
+                if (url) {
+                    window.location = url;
+                }
+            });
+        })
+    </script>
+
+</head>

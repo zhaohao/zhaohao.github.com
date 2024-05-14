@@ -1,57 +1,39 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh" lang="zh-cn">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="{{ site.author }}" />
-    <title>{{ page.title }} | {{ site.author }}</title>
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link href="/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
-    <link rel="stylesheet" href="/media/css/style.css">
-    <link rel="stylesheet" href="/media/css/highlight.css">
-    <link rel="stylesheet" id="lxgwwenkai-css" href="//cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css?ver=6.2.2" type="text/css" media="all">
-    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="/media/js/jquery.qrcode.min.js"></script>  
-    <script>
-        jQuery(function(){
-      
-        jQuery('#qrcode').qrcode({
-        render: "table",
-        width: 100,
-        height: 100,
-        foreground: "#337778",
-        background: "#eee",
-        text: "{{ site.url }}{{ page.url }}"
-        });
-  
-        })
-    </script>
-  </head>
-  <body>
-    <div id="container">
-      <div id="main" role="main">
-        <header>
+{% include header.html %}
+
+<body>
+  <div id="container">
+    <div id="main" role="main">
+      <header>
         <h1>{{ page.title }}</h1>
-        </header>
-        <nav>
-        <span><a title="home page" class="" href="/">Home</a></span>
-        <span><a title="about" class="" href="/about/">About</a></span>
-        <span><a title="guestbook" class="" href="/guestbook/">Guestbook</a></span>
-        <span><a title="categories" class="" href="/categories/">Categories</a></span>
-        <span><a title="tags" class="" href="/tags/">Tags</a></span>
-        <span><a title="links" class="" href="/links/">Links</a></span>
-        <span><a title="subscribe by RSS" class="" href="/feed/">Subscribe</a></span>
-        </nav>
-        <article class="content">
+      </header>
+      <nav>
+        <span><a title="home page" class="" href="/index.html">Home</a></span>
+        <span><a title="about" class="" href="/about/index.html">About</a></span>
+        <span><a title="guestbook" class="" href="/guestbook/index.html">Guestbook</a></span>
+        <span><a title="categories" class="" href="/categories/index.html">Categories</a></span>
+        <span><a title="tags" class="" href="/tags/index.html">Tags</a></span>
+        <span><a title="links" class="" href="/links/index.html">Links</a></span>
+        <span><a title="subscribe by RSS" class="" href="/feed/index.html">Subscribe</a></span>
+      </nav>
+      <nav2>
+        <span><a title="home page" class="" href="/index.html">Home</a></span>
+        <span><a title="links" class="" href="/links/index.html">Links</a></span>
+      </nav2>
+      <article class="content">
         {{ content }}
-        </article>
-      </div>
+      </article>
+    </div>
 
     <footer>
-        <p><small>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> | Copyright 2008 - {{site.time | date:"%Y"}} by <a href="{{ site.url }}">zhaohao</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</span></small></p>
+      <p><small>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> | Copyright 2008 - {{site.time |
+          date:"%Y"}} by <a href="{{ site.url }}">zhaohao</a> | <span class="label label-info">{{site.time |
+            date:"%Y-%m-%d %H:%M:%S %Z"}}</span></small></p>
     </footer>
 
-    </div>
-    <div class="overlay"></div>
-  </body>
+  </div>
+  <div class="overlay"></div>
+</body>
+
 </html>
