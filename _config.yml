@@ -1,6 +1,6 @@
 # Build settings
 permalink: /:year-:month-:day-:title.html
-url: https://hao.zhao.im
+url: ""
 author: zhaohao
 plugins: [jekyll-paginate]
 markdown: kramdown
