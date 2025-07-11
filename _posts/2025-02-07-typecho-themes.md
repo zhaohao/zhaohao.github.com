@@ -3,8 +3,8 @@ layout: post
 cid: 9
 title: Typecho主题
 slug: typecho-themes
-date: 2025/02/07 17:56:00
-updated: 2025/02/07 20:08:34
+date: 2025-02-07 17:56:00
+updated: 2025-02-07 20:08:34
 status: publish
 author: LetterZ
 categories: 
