@@ -1,11 +1,14 @@
 ---
-layout: post
-title: Starry Night
-date: 2014-08-11 23:37
-author: zhaohao
-comments: true
-categories: [weblog]
+layout: post 
+title: "Starry Night"
+draft: false 
+date: 2014-08-11
+categories: 
+  - "weblog"
 ---
-<a href="/Resource/StarryNight-1080.jpg"><img src="/Resource/StarryNight-1080.jpg" alt="StarryNight" /></a>
 
+![StarryNight](/images/StarryNight-1080.jpg)  
+  
 Starry Night
+
+stardust@live.com

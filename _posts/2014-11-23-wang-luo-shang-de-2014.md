@@ -1,0 +1,16 @@
+---
+layout: post 
+title: "网络上的2014"
+draft: false 
+date: 2014-11-23
+categories: 
+  - "weblog"
+---
+
+人人影视关闭……  
+射手网关闭……  
+Google全系被BAN……  
+甚至连Gravatar都莫名其妙的被BAN……  
+这是最好的时代，这是最坏的时代……这里是天堂，这里是地狱……
+
+stardust@live.com
